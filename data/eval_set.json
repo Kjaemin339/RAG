@@ -1,0 +1,74 @@
+[
+  {
+    "question": "RAG의 학습 전략에는 몇 가지 패러다임이 있는가?",
+    "answer": "4가지: training-free, independent training, sequential training, joint training",
+    "source_section": "Section 4",
+    "keywords": ["training-free", "independent training", "sequential training", "joint training"]
+  },
+  {
+    "question": "Dense Retrieval과 Sparse Retrieval의 대표적인 방법은 각각 무엇인가?",
+    "answer": "Dense: DPR (bi-encoder 구조), Sparse: BM25",
+    "source_section": "Section 3.1",
+    "keywords": ["DPR", "BM25", "bi-encoder", "dense", "sparse"]
+  },
+  {
+    "question": "Self-RAG는 검색 여부와 생성 품질을 판단하기 위해 무엇을 사용하는가?",
+    "answer": "reflection token (retrieve token, critique token 등)",
+    "source_section": "Section 3.5 (Adaptive Retrieval)",
+    "keywords": ["reflection token", "Self-RAG", "critique"]
+  },
+  {
+    "question": "FLARE는 언제 retrieval을 트리거하는가?",
+    "answer": "생성 중인 토큰의 신뢰도(confidence)가 낮을 때 (low-confidence token 발생 시)",
+    "source_section": "Section 3.5",
+    "keywords": ["FLARE", "confidence", "low-confidence", "trigger"]
+  },
+  {
+    "question": "Augmentation이 이루어질 수 있는 세 가지 레이어는 무엇인가?",
+    "answer": "input layer, intermediate layer(중간 레이어), output layer",
+    "source_section": "Section 3.4",
+    "keywords": ["input layer", "intermediate layer", "output layer", "augmentation"]
+  },
+  {
+    "question": "Retrieval granularity(검색 단위)의 종류에는 어떤 것들이 있는가?",
+    "answer": "token, phrase, sentence, chunk(passage), document, entity 등 다양한 단위",
+    "source_section": "Section 3.2",
+    "keywords": ["granularity", "token", "chunk", "passage", "entity"]
+  },
+  {
+    "question": "RAG의 joint training은 어떤 손실 함수(loss)를 기반으로 하는가?",
+    "answer": "NLL(Negative Log-Likelihood) 기반 loss로 retriever와 generator를 함께 최적화",
+    "source_section": "Section 4 (Joint Training)",
+    "keywords": ["NLL", "negative log-likelihood", "joint training", "loss"]
+  },
+  {
+    "question": "Pre-retrieval enhancement의 대표적인 기법은 무엇인가?",
+    "answer": "쿼리 재작성(query rewriting), 쿼리 확장(query expansion) 등",
+    "source_section": "Section 3.3",
+    "keywords": ["pre-retrieval", "query rewriting", "query expansion"]
+  },
+  {
+    "question": "Post-retrieval enhancement의 대표적인 기법은 무엇인가?",
+    "answer": "재순위화(re-ranking), 정보 압축(compression/filtering)",
+    "source_section": "Section 3.3",
+    "keywords": ["post-retrieval", "re-ranking", "compression", "filtering"]
+  },
+  {
+    "question": "In-Context Learning(ICL)이란 무엇인가?",
+    "answer": "모델 파라미터를 업데이트하지 않고, 프롬프트 안의 예시(demonstration)만으로 태스크를 수행하는 방식",
+    "source_section": "Section 2",
+    "keywords": ["in-context learning", "ICL", "demonstration", "prompt"]
+  },
+  {
+    "question": "Soft prompting과 prefix tuning의 차이는 무엇인가?",
+    "answer": "Soft prompting은 입력 임베딩에 학습 가능한 벡터를 추가하고, prefix tuning은 각 트랜스포머 레이어에 학습 가능한 prefix를 추가",
+    "source_section": "Section 2",
+    "keywords": ["soft prompting", "prefix tuning", "learnable vector", "transformer layer"]
+  },
+  {
+    "question": "Retrieval frequency(검색 빈도) 관점에서 RAG는 몇 가지 방식으로 나뉘는가?",
+    "answer": "one-time retrieval, adaptive retrieval, iterative/multi-time retrieval 등",
+    "source_section": "Section 3.6",
+    "keywords": ["retrieval frequency", "one-time", "adaptive", "iterative"]
+  }
+]
