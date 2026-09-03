@@ -1,0 +1,74 @@
+[
+  {
+    "question": "France(프랑스)의 본토(Metropolitan France)와 국경을 접하는 나라는 어디인가?",
+    "answer": "Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Andorra, Spain",
+    "entity": "France",
+    "keywords": ["Belgium", "Germany", "Switzerland", "Spain"]
+  },
+  {
+    "question": "찰리 채플린(Charlie Chaplin)이 스크린에서 연기해 유명해진 페르소나는 무엇인가?",
+    "answer": "The Tramp",
+    "entity": "Charlie_Chaplin",
+    "keywords": ["Tramp"]
+  },
+  {
+    "question": "하일레 셀라시에(Haile Selassie)는 몇 년부터 몇 년까지 에티오피아의 황제였는가?",
+    "answer": "1930년부터 1974년까지",
+    "entity": "Haile_Selassie",
+    "keywords": ["1930", "1974"]
+  },
+  {
+    "question": "맨체스터 유나이티드(Manchester United F.C.)는 1902년 개명 전 어떤 이름으로 창단되었는가?",
+    "answer": "Newton Heath LYR Football Club",
+    "entity": "Manchester_United_F.C.",
+    "keywords": ["Newton Heath"]
+  },
+  {
+    "question": "하버드 대학교(Harvard University)는 몇 년에 설립되었는가?",
+    "answer": "1636년",
+    "entity": "Harvard_University",
+    "keywords": ["1636"]
+  },
+  {
+    "question": "골든스테이트 워리어스(Golden State Warriors)는 1946년 창단 당시 어느 도시를 연고로 했는가?",
+    "answer": "Philadelphia",
+    "entity": "Golden_State_Warriors",
+    "keywords": ["Philadelphia"]
+  },
+  {
+    "question": "잉글랜드 왕국(Kingdom of England)은 몇 년에 앵글로색슨 왕국들이 통일되며 성립되었는가?",
+    "answer": "927년",
+    "entity": "Kingdom_of_England",
+    "keywords": ["927"]
+  },
+  {
+    "question": "스탠퍼드 대학교(Stanford University)는 누구에 의해 설립되었는가?",
+    "answer": "Leland Stanford와 그의 아내 Jane",
+    "entity": "Stanford_University",
+    "keywords": ["Leland Stanford", "Jane"]
+  },
+  {
+    "question": "아스날(Arsenal F.C.)은 몇 개의 FA컵(FA Cups)을 우승했는가?",
+    "answer": "기록적인 14개",
+    "entity": "Arsenal_F.C.",
+    "keywords": ["14 FA Cups"]
+  },
+  {
+    "question": "베르뇌유 전투(Battle of Verneuil)는 언제 벌어졌는가?",
+    "answer": "1424년 8월 17일",
+    "entity": "Battle_of_Verneuil",
+    "keywords": ["17 August 1424"]
+  },
+  {
+    "question": "우간다(Uganda)의 수도는 어디인가?",
+    "answer": "Kampala",
+    "entity": "Uganda",
+    "keywords": ["Kampala"]
+  },
+  {
+    "question": "브래들리 쿠퍼(Bradley Cooper)는 몇 개의 그래미상(Grammy Awards)을 수상했는가?",
+    "answer": "3개",
+    "entity": "Bradley_Cooper",
+    "keywords": ["three Grammy Awards"]
+  }
+]

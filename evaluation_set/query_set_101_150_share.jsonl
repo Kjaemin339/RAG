@@ -1,0 +1,100 @@
+{"entity": "Josh_Smith_(soccer)", "question": "In what year was Josh Smith born?", "answer": "1982", "question_type": "number"}
+{"entity": "Josh_Smith_(soccer)", "question": "What position did Josh Smith play?", "answer": "midfielder", "question_type": "word"}
+{"entity": "JS_Kabylie", "question": "In what year was JS Kabylie founded?", "answer": "1946", "question_type": "number"}
+{"entity": "JS_Kabylie", "question": "Has JS Kabylie ever been relegated to the second division?", "answer": "No", "question_type": "yes_no"}
+{"entity": "Juan_Pablo_Sorín", "question": "How many caps did Juan Pablo Sorín earn for Argentina?", "answer": "75", "question_type": "number"}
+{"entity": "Juan_Pablo_Sorín", "question": "Was Juan Pablo Sorín the captain of Argentina at the 2006 World Cup?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Júnior_Maranhão", "question": "In what year was Júnior Maranhão born?", "answer": "1977", "question_type": "number"}
+{"entity": "Júnior_Maranhão", "question": "Did Júnior Maranhão play in the Campeonato Brasileiro Série B?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Karl_Munroe", "question": "In what year was Karl Munroe born?", "answer": "1979", "question_type": "number"}
+{"entity": "Karl_Munroe", "question": "Did Karl Munroe play for Altrincham?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Karnataka", "question": "In what year was Karnataka formed as Mysore State?", "answer": "1956", "question_type": "number"}
+{"entity": "Karnataka", "question": "What is the capital of Karnataka?", "answer": "Bengaluru", "question_type": "word"}
+{"entity": "Keith_Scott_(footballer)", "question": "In what year was Keith Scott born?", "answer": "1967", "question_type": "number"}
+{"entity": "Keith_Scott_(footballer)", "question": "Did Keith Scott play for AFC Bournemouth?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Kingdom_of_England", "question": "In what year were all the Anglo-Saxon kingdoms united under Æthelstan?", "answer": "927", "question_type": "number"}
+{"entity": "Kingdom_of_England", "question": "Did the Kingdom of England unite with Scotland in 1707 to form the Kingdom of Great Britain?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Kuyavian-Pomeranian_Voivodeship", "question": "In what year was the Kuyavian-Pomeranian Voivodeship created?", "answer": "1999", "question_type": "number"}
+{"entity": "Kuyavian-Pomeranian_Voivodeship", "question": "What are the two joint capital cities of the Kuyavian-Pomeranian Voivodeship?", "answer": "Bydgoszcz and Toruń", "question_type": "word"}
+{"entity": "Lal_Bahadur_Shastri_Airport", "question": "Which city does Lal Bahadur Shastri Airport serve?", "answer": "Varanasi", "question_type": "word"}
+{"entity": "Lal_Bahadur_Shastri_Airport", "question": "In what year was Varanasi Airport renamed after Lal Bahadur Shastri?", "answer": "2005", "question_type": "number"}
+{"entity": "Lee_Clarke", "question": "In what year was Lee Clarke born?", "answer": "1983", "question_type": "number"}
+{"entity": "Lee_Clarke", "question": "Did Lee Clarke represent Northern Ireland internationally at youth levels?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Leeds_United_A.F.C.", "question": "What is the name of Leeds United's home stadium?", "answer": "Elland Road", "question_type": "word"}
+{"entity": "Leeds_United_A.F.C.", "question": "How many times have Leeds United won the League Championship?", "answer": "3", "question_type": "number"}
+{"entity": "Liburd_Henry", "question": "In what year was Liburd Henry born?", "answer": "1967", "question_type": "number"}
+{"entity": "Liburd_Henry", "question": "Did Liburd Henry play for Watford?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Lord's_Resistance_Army_insurgency", "question": "Who founded the Lord's Resistance Army?", "answer": "Joseph Kony", "question_type": "word"}
+{"entity": "Lord's_Resistance_Army_insurgency", "question": "Did the Lord's Resistance Army insurgency begin after the Ugandan Civil War?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "László_Sternberg", "question": "In what year did László Sternberg captain Hungary at the FIFA World Cup?", "answer": "1934", "question_type": "number"}
+{"entity": "László_Sternberg", "question": "Did László Sternberg play for the New York Americans?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Macclesfield_Town_F.C.", "question": "In what year was Macclesfield Town F.C. formed?", "answer": "1874", "question_type": "number"}
+{"entity": "Macclesfield_Town_F.C.", "question": "Was Macclesfield Town wound up by a High Court ruling in 2020?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Madison,_North_Carolina", "question": "What was the population of Madison, North Carolina at the 2020 census?", "answer": "2,132", "question_type": "number"}
+{"entity": "Madison,_North_Carolina", "question": "Was Madison home to the corporate headquarters of Remington Arms?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Maheta_Molango", "question": "In what year did Maheta Molango become Chief Executive of the PFA?", "answer": "2021", "question_type": "number"}
+{"entity": "Maheta_Molango", "question": "Which club did Maheta Molango serve as Chief Executive of before joining the PFA?", "answer": "RCD Mallorca", "question_type": "word"}
+{"entity": "male", "question": "What sex cell does a male organism produce?", "answer": "sperm", "question_type": "word"}
+{"entity": "male", "question": "Do most male mammals have a Y chromosome?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Malta_national_football_team", "question": "In what year did Malta play its first international match?", "answer": "1957", "question_type": "number"}
+{"entity": "Malta_national_football_team", "question": "Has Malta ever qualified for the finals of a major international competition?", "answer": "No", "question_type": "yes_no"}
+{"entity": "Manchester_United_F.C.", "question": "In what year was Manchester United founded as Newton Heath LYR Football Club?", "answer": "1878", "question_type": "number"}
+{"entity": "Manchester_United_F.C.", "question": "What is Manchester United's nickname?", "answer": "the Red Devils", "question_type": "word"}
+{"entity": "Marcelo_Goianira", "question": "In what year was Marcelo Goianira born?", "answer": "1980", "question_type": "number"}
+{"entity": "Marcelo_Goianira", "question": "What position does Marcelo Goianira play?", "answer": "defensive midfielder", "question_type": "word"}
+{"entity": "Mariusz_Mowlik", "question": "In what year was Mariusz Mowlik born?", "answer": "1981", "question_type": "number"}
+{"entity": "Mariusz_Mowlik", "question": "What position did Mariusz Mowlik play?", "answer": "defender", "question_type": "word"}
+{"entity": "Mark_Jackson_(footballer)", "question": "In what year was Mark Jackson born?", "answer": "1965", "question_type": "number"}
+{"entity": "Mark_Jackson_(footballer)", "question": "Which NBA team did Mark Jackson coach?", "answer": "Golden State Warriors", "question_type": "word"}
+{"entity": "Mary,_Queen_of_Hungary", "question": "In what year was Mary crowned as king of Hungary?", "answer": "1382", "question_type": "number"}
+{"entity": "Mary,_Queen_of_Hungary", "question": "Who was Mary, Queen of Hungary's father?", "answer": "Louis the Great", "question_type": "word"}
+{"entity": "Michal_Nehoda", "question": "In what year was Michal Nehoda born?", "answer": "1976", "question_type": "number"}
+{"entity": "Michal_Nehoda", "question": "Did Michal Nehoda play in Cyprus for Ethnikos Achna?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Mike_Scott_(musician)", "question": "Which band did Scottish musician Mike Scott, born in 1958, found?", "answer": "The Waterboys", "question_type": "word"}
+{"entity": "Mike_Scott_(musician)", "question": "In what year was Mike Scott, founder of The Waterboys, born?", "answer": "1958", "question_type": "number"}
+{"entity": "Milwaukee_Wave_United", "question": "In what year was the Milwaukee Wave United formed?", "answer": "2002", "question_type": "number"}
+{"entity": "Milwaukee_Wave_United", "question": "Did the Milwaukee Wave United withdraw from the A-League in 2004?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Nenad_Đorđević", "question": "How many times was Nenad Đorđević capped for Serbia and Montenegro?", "answer": "17", "question_type": "number"}
+{"entity": "Nenad_Đorđević", "question": "Which club did Nenad Đorđević join in July 2003?", "answer": "Partizan", "question_type": "word"}
+{"entity": "New_York_Americans_(soccer)", "question": "In what year were the New York Americans founded?", "answer": "1931", "question_type": "number"}
+{"entity": "New_York_Americans_(soccer)", "question": "Did the New York Americans merge with Brooklyn Hakoah?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Nicola_Sansone", "question": "In what year was Nicola Sansone born?", "answer": "1991", "question_type": "number"}
+{"entity": "Nicola_Sansone", "question": "Was Nicola Sansone born in Germany?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Nicolás_Medina", "question": "In what year did Nicolás Medina win a gold medal at the Summer Olympics?", "answer": "2004", "question_type": "number"}
+{"entity": "Nicolás_Medina", "question": "What position did Nicolás Medina primarily play?", "answer": "central midfielder", "question_type": "word"}
+{"entity": "Nils_Petersen", "question": "How many goals did Nils Petersen score in a single game against Fiji at the 2016 Olympics?", "answer": "5", "question_type": "number"}
+{"entity": "Nils_Petersen", "question": "Did Germany win the gold medal in men's football at the 2016 Olympics?", "answer": "No", "question_type": "yes_no"}
+{"entity": "Northern_Ireland_national_under-21_football_team", "question": "Has Northern Ireland qualified for the finals of the UEFA European Under-21 Championship?", "answer": "No", "question_type": "yes_no"}
+{"entity": "Northern_Ireland_national_under-21_football_team", "question": "Which body controls the Northern Ireland national under-21 football team?", "answer": "Irish Football Association", "question_type": "word"}
+{"entity": "Nuremberg", "question": "In what year was Nuremberg first mentioned?", "answer": "1050", "question_type": "number"}
+{"entity": "Nuremberg", "question": "Which river is Nuremberg situated on?", "answer": "Pegnitz", "question_type": "word"}
+{"entity": "O._W._Fischer", "question": "In what year was O. W. Fischer born?", "answer": "1915", "question_type": "number"}
+{"entity": "O._W._Fischer", "question": "In which city was O. W. Fischer born?", "answer": "Klosterneuburg", "question_type": "word"}
+{"entity": "Ontario", "question": "In what year was 'Ontario' adopted as the official name of the province at Confederation?", "answer": "1867", "question_type": "number"}
+{"entity": "Ontario", "question": "What is Ontario's provincial capital?", "answer": "Toronto", "question_type": "word"}
+{"entity": "Our_Hospitality", "question": "In what year was Our Hospitality released?", "answer": "1923", "question_type": "number"}
+{"entity": "Our_Hospitality", "question": "Who directed Our Hospitality alongside John G. Blystone?", "answer": "Buster Keaton", "question_type": "word"}
+{"entity": "Pablo_Granoche", "question": "In what year was Pablo Granoche born?", "answer": "1983", "question_type": "number"}
+{"entity": "Pablo_Granoche", "question": "What was Pablo Granoche's nickname during his playing career?", "answer": "El Diablo", "question_type": "word"}
+{"entity": "PAEEK", "question": "In what year was PAEEK founded?", "answer": "1953", "question_type": "number"}
+{"entity": "PAEEK", "question": "In which city does PAEEK now play in exile?", "answer": "Nicosia", "question_type": "word"}
+{"entity": "Panthrakikos_F.C.", "question": "In what year was Panthrakikos F.C. founded?", "answer": "1964", "question_type": "number"}
+{"entity": "Panthrakikos_F.C.", "question": "In which city is Panthrakikos F.C. based?", "answer": "Komotini", "question_type": "word"}
+{"entity": "Parma_F.C.", "question": "In what year was Parma Football Club originally founded?", "answer": "1913", "question_type": "number"}
+{"entity": "Parma_F.C.", "question": "What is the name of Parma's home stadium?", "answer": "Stadio Ennio Tardini", "question_type": "word"}
+{"entity": "Patrick_Colleter", "question": "In what year was Patrick Colleter born?", "answer": "1965", "question_type": "number"}
+{"entity": "Patrick_Colleter", "question": "Did Patrick Colleter play for Paris Saint-Germain?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Pedro_Antonio_Vega_Rodríguez", "question": "In what year was Pedro Antonio Vega Rodríguez born?", "answer": "1979", "question_type": "number"}
+{"entity": "Pedro_Antonio_Vega_Rodríguez", "question": "What position did Pedro Antonio Vega Rodríguez play?", "answer": "left winger", "question_type": "word"}
+{"entity": "Pedro_Jorge_Santos_Santos", "question": "In what year was Pedro Jorge Santos Santos born?", "answer": "1976", "question_type": "number"}
+{"entity": "Pedro_Jorge_Santos_Santos", "question": "What position did Pedro Jorge Santos Santos play?", "answer": "central midfielder", "question_type": "word"}
+{"entity": "Peter_Creamer", "question": "In what year was Peter Creamer born?", "answer": "1953", "question_type": "number"}
+{"entity": "Peter_Creamer", "question": "Did Peter Creamer play for the Dallas Tornado in the North American Soccer League?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Petit", "question": "Which French footballer named Petit played for France, Arsenal, and Chelsea?", "answer": "Emmanuel Petit", "question_type": "word"}
+{"entity": "Petit", "question": "In what year was Emmanuel Petit born?", "answer": "1970", "question_type": "number"}
+{"entity": "Plymouth_Argyle_F.C.", "question": "In what year was Plymouth Argyle founded?", "answer": "1886", "question_type": "number"}
+{"entity": "Plymouth_Argyle_F.C.", "question": "What is Plymouth Argyle's nickname?", "answer": "The Pilgrims", "question_type": "word"}
+{"entity": "Portadown_F.C.", "question": "In what year was Portadown F.C. formed?", "answer": "1887", "question_type": "number"}
+{"entity": "Portadown_F.C.", "question": "What is the name of Portadown's home stadium?", "answer": "Shamrock Park", "question_type": "word"}
+{"entity": "Rahul_Dev", "question": "In what year was Rahul Dev born?", "answer": "1968", "question_type": "number"}
+{"entity": "Rahul_Dev", "question": "What is the name of Rahul Dev's younger brother?", "answer": "Mukul Dev", "question_type": "word"}

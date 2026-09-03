@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "user_input": "Which countries border Metropolitan France?",
+      "retrieved_contexts": [
+        ". Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea",
+        "The vast majority of France's territory and population is situated in Western Europe and is called Metropolitan France. It is bordered by the North Sea to the north, the English Channel to the northwest, the Atlantic Ocean to the west, and the Mediterranean Sea to the southeast. Its land borders consist of Belgium and Luxembourg in the northeast, Germany and Switzerland in the east, Italy and Monaco in the southeast, and Andorra and Spain in the south and southwest",
+        "In the Province there is a border dispute with Chile in the Southern Patagonian Ice Field, in 1898 the border was defined and wasn't objected during the 1902 Arbitral award of the Andes which defined most of the border on the current Province territory. Both experts, Francisco Pascasio Moreno from Argentina and Diego Barros Arana from Chile agreed on the border between Mount Fitz Roy and Cerro Daudet"
+      ],
+      "response": "Metropolitan France is bordered by Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and has a maritime border with the United Kingdom to the northwest.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.999999502179176
+    },
+    {
+      "user_input": "What persona did Charlie Chaplin become famous for playing on screen?",
+      "retrieved_contexts": [
+        "Sir Charles Spencer Chaplin Jr. (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, singer, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977.",
+        "Newspaper clippings about Charlie Chaplin in the 20th Century Press Archives of the ZBW \nData\nCharlie Chaplin at the American Film Institute Catalog\nCharlie Chaplin at IMDb \nCharlie Chaplin at the TCM Movie Database (archived) \nCharlie Chaplin at Virtual History: Film history of the 20th century",
+        ". In 1914, Chaplin gained widespread popularity through his appearances in Keystone Studios films. He soon introduced and adopted the Tramp as his screen persona. He directed his own films and continued to hone his craft as he moved to Essanay Studios, where the Tramp persona was developed emotionally in The Tramp (1915). He then attracted a large fanbase and demanded more money as he moved to Mutual and First National corporations"
+      ],
+      "response": "Charlie Chaplin became famous for playing the persona of the Tramp on screen.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9009926582742372
+    },
+    {
+      "user_input": "From what year to what year was Haile Selassie Emperor of Ethiopia?",
+      "retrieved_contexts": [
+        "Haile Selassie I (born  Ras Tafari Makonnen or Lij Tafari; 23 July 1892 – 27 August 1975) was Emperor of Ethiopia from 1930 to 1974. He rose to power as the Regent Plenipotentiary of Ethiopia (Enderase) under Empress Zewditu between 1916 and 1930.",
+        "Ethiopian Treasures – Emperor Haile Selassie I\nImperial Crown Council of Ethiopia\nSpeech to the League of Nations, June 1936 Archived 22 October 2015 at the Wayback Machine (full text)\nRare and Unseen: Haile Selassie Archived 13 December 2011 at the Wayback Machine – slideshow by Life magazine\nBBC article, memories of his personal servants\nHaile Selassie I Speaks – Text & Audio",
+        ". Selassie's full title in office was \"By the Conquering Lion of the Tribe of Judah, His Imperial Majesty Haile Selassie I, King of Kings of Ethiopia, Lord of Lords, Elect of God\". This title reflects Ethiopian dynastic traditions, which hold that all monarchs must trace their lineage to Menelik I, who is described by the Kebra Nagast (a 14th-century CE national epic) as the son of the tenth-century BCE King Solomon and the Queen of Sheba."
+      ],
+      "response": "Haile Selassie was Emperor of Ethiopia from 1930 to 1974.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7022058272059364
+    },
+    {
+      "user_input": "Under what name was Manchester United F.C. founded before renaming in 1902?",
+      "retrieved_contexts": [
+        "Manchester United Football Club, commonly referred to as Man United (often stylised as Man Utd) or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. They compete in the Premier League, the top tier of English football. Nicknamed the Red Devils, they were founded as Newton Heath LYR Football Club in 1878, but changed their name to Manchester United in 1902",
+        "The club was founded in 1912 as Abbey United, and took the name Cambridge United in 1951. They played in local amateur leagues before joining the Southern League after finishing as runners-up of the Eastern Counties League in 1957–58. Under Bill Leivers's stewardship they were crowned Southern League Premier Division champions in 1968–69 and 1969–70, which helped to secure their election into the  Football League in 1970",
+        "After the name change in 1902, the club colours were changed to red shirts, white shorts, and black socks, which has become the standard Manchester United home kit. Very few changes were made to the kit until 1922 when the club adopted white shirts bearing a deep red \"V\" around the neck, similar to the shirt worn in the 1909 FA Cup final. They remained part of their home kits until 1927"
+      ],
+      "response": "Manchester United F.C. was founded as Newton Heath LYR Football Club before renaming in 1902.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8138121806921642
+    },
+    {
+      "user_input": "In what year was Harvard University founded?",
+      "retrieved_contexts": [
+        "Harvard University is a private Ivy League research university in Cambridge, Massachusetts, United States. Founded in 1636, and named Harvard College in 1639 in honor of its first benefactor, Puritan clergyman John Harvard, it is the oldest institution of higher learning in the United States. Its influence, wealth, and rankings have made it one of the most prestigious universities in the world.",
+        ". In 2011, Maskin returned to Harvard as the Adams University Professor and professor of economics and mathematics.",
+        ". In 1780, the Constitution of Massachusetts referred to it as a university, and a new medical school established in 1782 was named the Medical Institution of Harvard University; but this was a new name, not a new foundation. Harvard College soon became the name of the university's undergraduate division."
+      ],
+      "response": "Harvard University was founded in 1636.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9578860822387437
+    },
+    {
+      "user_input": "In which city were the Golden State Warriors founded in 1946?",
+      "retrieved_contexts": [
+        "The Golden State Warriors are an American professional basketball team based in San Francisco. The Warriors compete in the National Basketball Association (NBA) as a member of the Pacific Division of the Western Conference. Founded in 1946 in Philadelphia, the Warriors moved to the San Francisco Bay Area in 1962 and took the city's name before changing its geographic moniker to Golden State in 1971. The team plays its home games at Chase Center.",
+        "The team struggled in the 1980s, then became playoff regulars at the turn of the decade with stars Tim Hardaway, Mitch Richmond, and Chris Mullin, nicknamed \"Run TMC\". Led by Stephen Curry, Klay Thompson, and Draymond Green, the team returned to championship glory in 2015. In 2016, the Warriors achieved the best-ever regular-season record at 73–9 before losing the Finals to the Cleveland Cavaliers in seven games after surrendering a 3–1 series lead",
+        "List of the last five seasons completed by the Warriors. For the full season-by-season history, see List of Golden State Warriors seasons.\nNote: GP = Games played, W = Wins, L = Losses, W–L% = Winning percentage"
+      ],
+      "response": "The Golden State Warriors were founded in Philadelphia in 1946.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9078985020116762
+    },
+    {
+      "user_input": "In what year was the Kingdom of England unified?",
+      "retrieved_contexts": [
+        "The political unification of England was a complex process that took place over many decades. Beginning in the year 886, Alfred the Great reoccupied London from the Danish Vikings and adopted the title King of the Anglo-Saxons in order to reflect his control over both Wessex and western Mercia",
+        "Crown Jewels of the United Kingdom – British royal regalia\nEnglish overseas possessions – Territories ruled by the Kingdom of England\nList of English monarchs\nPrivy Council of England – Body of advisers to the sovereign of the Kingdom of England\n\n\n\n== Bibliography ==",
+        "The Kingdom of England was a sovereign state on the island of Great Britain from 927, when all of the Anglo-Saxon kingdoms were united under the rule of Æthelstan, until 1 May 1707, when it relinquished its sovereignty along with Scotland to form the Kingdom of Great Britain, which would later become the United Kingdom. The Kingdom of England was among the most powerful states in Europe during the medieval and early modern periods."
+      ],
+      "response": "The Kingdom of England was unified in the year 927.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9999999999999999
+    },
+    {
+      "user_input": "Who founded Stanford University?",
+      "retrieved_contexts": [
+        "Stanford University was founded in 1885 by Leland and Jane Stanford as a tribute to the memory of their only child, Leland Stanford Jr. The university officially opened in 1891 on the Stanfords' former Palo Alto farm. Modeled after the great Eastern universities, specifically Cornell University in Ithaca, New York, Stanford was often referred to as the \"Cornell of the West\" in its early years",
+        "Leland Stanford Junior University, commonly referred to as Stanford University, is a private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Leland Stanford (the eighth governor of and then-incumbent United States senator representing California) and his wife, Jane, in memory of their only child, Leland Jr.",
+        "In the 1940s and 1950s, Frederick Terman, an engineering professor who later became provost, encouraged Stanford engineering graduates to start their own companies and invent products. During the 1950s, he established Stanford Industrial Park, a high-tech commercial campus on university land"
+      ],
+      "response": "Stanford University was founded by Leland and Jane Stanford.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9999994991729612
+    },
+    {
+      "user_input": "How many FA Cups has Arsenal won?",
+      "retrieved_contexts": [
+        ". In the 1930s, Arsenal won five League Championships and two FA Cups, with another FA Cup and two more Championships coming after the war. In 1970–71, it won its first League and FA Cup double. Between 1989 and 2005, the club won five league titles and five FA Cups, including two more doubles. Between 1998 and 2017, Arsenal qualified for the UEFA Champions League for an English football record of nineteen consecutive seasons. The club finished as Champions League runners-up in 2006 and 2026.",
+        "They hold the highest number of FA Cup trophies, with 14. The club is one of only six clubs to have won the FA Cup twice in succession, in 2002 and 2003, and 2014 and 2015. Arsenal have achieved three League and FA Cup \"Doubles\" (in 1971, 1998 and 2002), a feat only previously achieved by Manchester United (in 1994, 1996 and 1999). They were the first side in English football to complete the FA Cup and League Cup double, in 1993",
+        "For many years Arsenal's away colours were white or navy blue. However, in 1968 the FA banned navy shirts (they looked too similar to referees' black kit), so in the 1969–70 season Arsenal introduced an away kit of yellow shirts with blue shorts. This kit was worn in the 1971 FA Cup Final when Arsenal beat Liverpool to secure the double for the first time in their history. The yellow and blue strip became almost as famous as their iconic red-and-white home kit"
+      ],
+      "response": "Arsenal has won 14 FA Cups.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9999995676012006
+    },
+    {
+      "user_input": "When did the Battle of Verneuil take place?",
+      "retrieved_contexts": [
+        "The Battle of Verneuil was a battle of the Hundred Years' War, fought on 17 August 1424 near Verneuil-sur-Avre in Normandy between an English army and a combined Franco-Scottish force, augmented by Milanese heavy cavalry. The battle was a significant English victory, and was described by them as a second Agincourt.",
+        "The consequences of the victory at Verneuil were that the English captured all border posts of Lancastrian Normandy, with the only exception being Mont Saint-Michel, where the monks resisted; La Hire, commanding another French force, withdrew to the east and a French plan to take Rouen by mining was foiled likely due to Bedford's victory.",
+        "In the summer of 1424 the English army, under the command of Bedford and the experienced Earl of Salisbury, laid siege to the French stronghold of Ivry, 42 km (26 miles) northeast of Verneuil."
+      ],
+      "response": "The Battle of Verneuil took place on 17 August 1424.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9999995774281721
+    }
+  ],
+  "average": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9282793396804268
+  }
+}

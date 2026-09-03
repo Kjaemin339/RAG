@@ -1,0 +1,100 @@
+{"entity": "Reading_F.C.", "question": "In what year was Reading F.C. founded?", "answer": "1871", "question_type": "number"}
+{"entity": "Reading_F.C.", "question": "Is the home stadium of Reading F.C. the Select Car Leasing Stadium?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Remington_Arms", "question": "In what year was Remington Arms founded?", "answer": "1816", "question_type": "number"}
+{"entity": "Remington_Arms", "question": "Is the founder of Remington Arms named Eliphalet?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Ricardo_Moniz", "question": "In what year was Ricardo Moniz born?", "answer": "1964", "question_type": "number"}
+{"entity": "Ricardo_Moniz", "question": "Is Ricardo Moniz of Dutch nationality?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Robert_Bly", "question": "In what year was Robert Bly born?", "answer": "1926", "question_type": "number"}
+{"entity": "Robert_Bly", "question": "Was Robert Bly's profession a poet?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Rosario_Central", "question": "In what year was Rosario Central founded?", "answer": "1889", "question_type": "number"}
+{"entity": "Rosario_Central", "question": "In which country is the sports club Rosario Central located?", "answer": "Argentina", "question_type": "word"}
+{"entity": "Rui_Fernando_Nascimento_Borges", "question": "In what year was Rui Fernando Nascimento Borges born?", "answer": "1973", "question_type": "number"}
+{"entity": "Rui_Fernando_Nascimento_Borges", "question": "Was Rui Fernando Nascimento Borges born in the city of Lisbon?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "SK_Hanácká_Slavia_Kroměříž", "question": "Is 2025 the year when SK Hanácká Slavia Kroměříž will play in the 2. Liga?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "SK_Hanácká_Slavia_Kroměříž", "question": "From which country is the football club SK Hanácká Slavia Kroměříž?", "answer": "Czech Republic", "question_type": "word"}
+{"entity": "Sam_Hewson", "question": "In what year was Sam Hewson born?", "answer": "1988", "question_type": "number"}
+{"entity": "Sam_Hewson", "question": "Is Sam Hewson's nationality English?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "San_Fernando_Valley_Quakes", "question": "In what year was the San Fernando Valley Quakes founded?", "answer": "2006", "question_type": "number"}
+{"entity": "San_Fernando_Valley_Quakes", "question": "Was this team based in California?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "San_Martín_de_San_Juan", "question": "In what year was San Martín de San Juan founded?", "answer": "1907", "question_type": "number"}
+{"entity": "San_Martín_de_San_Juan", "question": "Is this club an Argentine football club?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Santa_Cruz_Futebol_Clube", "question": "In what year was Santa Cruz Futebol Clube founded?", "answer": "1914", "question_type": "number"}
+{"entity": "Santa_Cruz_Futebol_Clube", "question": "Is the city where this club is located Recife?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Scott_Wagstaff", "question": "In what year was Scott Wagstaff born?", "answer": "1990", "question_type": "number"}
+{"entity": "Scott_Wagstaff", "question": "Is Scott Wagstaff a midfielder for Dartford?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Serigne_Diop", "question": "In what year was Serigne Diop born?", "answer": "1988", "question_type": "number"}
+{"entity": "Serigne_Diop", "question": "Was Serigne Diop born in Paris?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Simone_Zaza", "question": "In what year was Simone Zaza born?", "answer": "1991", "question_type": "number"}
+{"entity": "Simone_Zaza", "question": "Has Simone Zaza ever played for Juventus?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "South_China_AA", "question": "How many First Division titles has South China AA won?", "answer": "41", "question_type": "number"}
+{"entity": "South_China_AA", "question": "Is South China AA a club located in Hong Kong?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Spain_national_under-20_football_team", "question": "Is September the month when the 2025 FIFA U-20 World Cup starts?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Spain_national_under-20_football_team", "question": "What is the abbreviation of the association that controls the Spain national under-20 football team?", "answer": "RFEF", "question_type": "word"}
+{"entity": "Sport_Club_Corinthians_Paulista", "question": "In what year was Sport Club Corinthians Paulista founded?", "answer": "1910", "question_type": "number"}
+{"entity": "Sport_Club_Corinthians_Paulista", "question": "Is this club based in São Paulo?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Sport_Club_Corinthians_Paulista", "question": "Did Corinthians win their first Campeonato Brasileiro Série A in 1990?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Stade_Rennais_F.C.", "question": "In what year was Stade Rennais F.C. founded?", "answer": "1901", "question_type": "number"}
+{"entity": "Stade_Rennais_F.C.", "question": "Is Stade Rennais F.C. a French football club?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Stanford_University", "question": "In what year was Stanford University founded?", "answer": "1885", "question_type": "number"}
+{"entity": "Stanford_University", "question": "In what year was Stanford Research Park established?", "answer": "1951", "question_type": "number"}
+{"entity": "Stanford_University", "question": "Is this university located in California?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Stephan_Marasek", "question": "In what year was Stephan Marasek born?", "answer": "1970", "question_type": "number"}
+{"entity": "Stephan_Marasek", "question": "Is Stephan Marasek's nationality Austrian?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Tarsus_Idman_Yurdu", "question": "In what year was Tarsus Idman Yurdu founded?", "answer": "1923", "question_type": "number"}
+{"entity": "Tarsus_Idman_Yurdu", "question": "Is this a sports club in Turkey?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Terry_Woodberry", "question": "In what year was Terry Woodberry born?", "answer": "1963", "question_type": "number"}
+{"entity": "Terry_Woodberry", "question": "Did Terry Woodberry play for the US team in the 1992 FIFA Futsal World Cup?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "The_Bad_Seed_(1956_film)", "question": "In what year was the film The Bad Seed released?", "answer": "1956", "question_type": "number"}
+{"entity": "The_Bad_Seed_(1956_film)", "question": "Was the director of this film Mervyn LeRoy?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "The_Bad_Seed_(1956_film)", "question": "Who wrote the 1954 play that the film The Bad Seed adapts?", "answer": "Maxwell Anderson", "question_type": "word"}
+{"entity": "Theodor_Meynert", "question": "In what year was Theodor Meynert born?", "answer": "1833", "question_type": "number"}
+{"entity": "Theodor_Meynert", "question": "Was Theodor Meynert born in the city of Dresden?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Tom_Kouzmanis", "question": "In what year was Tom Kouzmanis born?", "answer": "1973", "question_type": "number"}
+{"entity": "Tom_Kouzmanis", "question": "Is Tom Kouzmanis of Canadian nationality?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Toni_Kuivasto", "question": "In what year was Toni Kuivasto born?", "answer": "1975", "question_type": "number"}
+{"entity": "Toni_Kuivasto", "question": "Is Toni Kuivasto's nationality Finnish?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Toulouse–Blagnac_Airport", "question": "How much land area does Toulouse–Blagnac Airport cover in hectares?", "answer": "780", "question_type": "number"}
+{"entity": "Toulouse–Blagnac_Airport", "question": "Is this airport located near Toulouse, France?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Toulouse–Blagnac_Airport", "question": "What is the IATA code for Toulouse–Blagnac Airport?", "answer": "TLS", "question_type": "word"}
+{"entity": "Treviso", "question": "What was the population of the Treviso municipality as of December 2025?", "answer": "86,076", "question_type": "number"}
+{"entity": "Treviso", "question": "Is Treviso located in the Veneto region?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Trevor_Senior", "question": "In what year was Trevor Senior born?", "answer": "1961", "question_type": "number"}
+{"entity": "Trevor_Senior", "question": "Was Trevor Senior's primary position a striker?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Trinity_University_(Texas)", "question": "In what year was Trinity University founded?", "answer": "1869", "question_type": "number"}
+{"entity": "Trinity_University_(Texas)", "question": "Is this university located in San Antonio, Texas?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "U.S._Pergolettese_1932", "question": "Does U.S. Pergolettese 1932 currently play in Serie C, the third level of Italian football?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "U.S._Pergolettese_1932", "question": "Is one of the main colors of this team yellow?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "UB_Conquense", "question": "In what year was UB Conquense founded?", "answer": "1946", "question_type": "number"}
+{"entity": "UB_Conquense", "question": "Is this club a Spanish football team?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Uganda", "question": "What was the approximate population of Uganda in millions as of 2024?", "answer": "45.9", "question_type": "number"}
+{"entity": "Uganda", "question": "Does the Bank of Uganda handle the printing of the Ugandan shilling?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Uganda", "question": "In what year did Uganda gain independence?", "answer": "1962", "question_type": "number"}
+{"entity": "University_of_Vienna", "question": "In what year was the University of Vienna founded?", "answer": "1365", "question_type": "number"}
+{"entity": "University_of_Vienna", "question": "Is this university located in Austria?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Visakhapatnam_Airport", "question": "In what year was Visakhapatnam Airport first opened for civil operations?", "answer": "1962", "question_type": "number"}
+{"entity": "Visakhapatnam_Airport", "question": "Is this airport located in India?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Vladimir_Fock", "question": "In what year was Vladimir Fock born?", "answer": "1898", "question_type": "number"}
+{"entity": "Vladimir_Fock", "question": "Was he a Soviet physicist?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Warren_Bradley_(footballer)", "question": "In what year was Warren Bradley born?", "answer": "1933", "question_type": "number"}
+{"entity": "Warren_Bradley_(footballer)", "question": "Was he a footballer who played for England and Manchester United?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Wedding_Crashers", "question": "In what year was the film Wedding Crashers released?", "answer": "2005", "question_type": "number"}
+{"entity": "Wedding_Crashers", "question": "Was the director of this film David Dobkin?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Wedding_Crashers", "question": "How much did the film Wedding Crashers gross worldwide in millions of dollars?", "answer": "288.5", "question_type": "number"}
+{"entity": "Wigan_Athletic_F.C.", "question": "In what year was Wigan Athletic F.C. founded?", "answer": "1932", "question_type": "number"}
+{"entity": "Wigan_Athletic_F.C.", "question": "Is Bolton Wanderers considered the primary derby rival of this club?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "William_Hopper", "question": "In what year was William Hopper born?", "answer": "1915", "question_type": "number"}
+{"entity": "William_Hopper", "question": "Did he play the role of private detective Paul Drake in the Perry Mason series?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Willie_Sims_(footballer)", "question": "In what year was Willie Sims born?", "answer": "1984", "question_type": "number"}
+{"entity": "Willie_Sims_(footballer)", "question": "Did he ever play for the Guatemala national team?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Xavier_Hochstrasser", "question": "In what year was Xavier Hochstrasser born?", "answer": "1988", "question_type": "number"}
+{"entity": "Xavier_Hochstrasser", "question": "Is his nationality Swiss?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Yangju_Citizen_FC", "question": "How many times did Yangju Citizen FC win the K3 League in 2008?", "answer": "1", "question_type": "number"}
+{"entity": "Yangju_Citizen_FC", "question": "Is this club a South Korean football club?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "York_Region_Shooters", "question": "In what year was York Region Shooters formed?", "answer": "2003", "question_type": "number"}
+{"entity": "York_Region_Shooters", "question": "Did this team compete in the Canadian Soccer League?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Ángel_Puertas", "question": "In what year was Ángel Puertas born?", "answer": "1980", "question_type": "number"}
+{"entity": "Ángel_Puertas", "question": "Is his nationality Argentine?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "ŁKS_Łódź", "question": "In what year was ŁKS Łódź founded?", "answer": "1908", "question_type": "number"}
+{"entity": "ŁKS_Łódź", "question": "Is football one of the main sports for this club?", "answer": "Yes", "question_type": "yes_no"}
+{"entity": "Łask_County", "question": "In what year did Łask County come into being?", "answer": "1999", "question_type": "number"}
+{"entity": "Łask_County", "question": "Is this county located in Poland?", "answer": "Yes", "question_type": "yes_no"}

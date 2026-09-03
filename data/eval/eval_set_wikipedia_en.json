@@ -1,0 +1,1307 @@
+[
+  {
+    "question": "Which countries border Metropolitan France?",
+    "entity": "France",
+    "keywords": [
+      "Belgium",
+      "Germany",
+      "Switzerland",
+      "Spain"
+    ]
+  },
+  {
+    "question": "What persona did Charlie Chaplin become famous for playing on screen?",
+    "entity": "Charlie_Chaplin",
+    "keywords": [
+      "Tramp"
+    ]
+  },
+  {
+    "question": "From what year to what year was Haile Selassie Emperor of Ethiopia?",
+    "entity": "Haile_Selassie",
+    "keywords": [
+      "1930",
+      "1974"
+    ]
+  },
+  {
+    "question": "Under what name was Manchester United F.C. founded before renaming in 1902?",
+    "entity": "Manchester_United_F.C.",
+    "keywords": [
+      "Newton Heath"
+    ]
+  },
+  {
+    "question": "In what year was Harvard University founded?",
+    "entity": "Harvard_University",
+    "keywords": [
+      "1636"
+    ]
+  },
+  {
+    "question": "In which city were the Golden State Warriors founded in 1946?",
+    "entity": "Golden_State_Warriors",
+    "keywords": [
+      "Philadelphia"
+    ]
+  },
+  {
+    "question": "In what year was the Kingdom of England unified?",
+    "entity": "Kingdom_of_England",
+    "keywords": [
+      "927"
+    ]
+  },
+  {
+    "question": "Who founded Stanford University?",
+    "entity": "Stanford_University",
+    "keywords": [
+      "Leland Stanford",
+      "Jane"
+    ]
+  },
+  {
+    "question": "How many FA Cups has Arsenal won?",
+    "entity": "Arsenal_F.C.",
+    "keywords": [
+      "14 FA Cups"
+    ]
+  },
+  {
+    "question": "When did the Battle of Verneuil take place?",
+    "entity": "Battle_of_Verneuil",
+    "keywords": [
+      "17 August 1424"
+    ]
+  },
+  {
+    "question": "What is the capital of Uganda?",
+    "entity": "Uganda",
+    "keywords": [
+      "Kampala"
+    ]
+  },
+  {
+    "question": "How many Grammy Awards has Bradley Cooper won?",
+    "entity": "Bradley_Cooper",
+    "keywords": [
+      "three Grammy Awards"
+    ]
+  },
+  {
+    "question": "What year did FK Obilić win the national league?",
+    "entity": "FK_Obilić",
+    "keywords": [
+      "1998",
+      "national league"
+    ]
+  },
+  {
+    "question": "Which team did Damien McCrory help to win the League Two title in the 2014–15 season?",
+    "entity": "Damien_McCrory",
+    "keywords": [
+      "Burton Albion",
+      "League Two title"
+    ]
+  },
+  {
+    "question": "What position did Liburd Henry play in football?",
+    "entity": "Liburd_Henry",
+    "keywords": [
+      "forward",
+      "footballer"
+    ]
+  },
+  {
+    "question": "What was the worst defeat of the Boston Bears in the 1931 season?",
+    "entity": "Boston_Bears_(soccer)",
+    "keywords": [
+      "worst defeat",
+      "New York Giants",
+      "8–1"
+    ]
+  },
+  {
+    "question": "When was Hibernian Football Club founded?",
+    "entity": "Hibernian_F.C.",
+    "keywords": [
+      "1875",
+      "founded"
+    ]
+  },
+  {
+    "question": "Which club did Eduardo Ferreira join after leaving Esteghlal Khuzestan?",
+    "entity": "Eduardo_Ferreira",
+    "keywords": [
+      "Pune City",
+      "Indian Super League"
+    ]
+  },
+  {
+    "question": "Which club did Lee Clarke captain to the Conference South title in 2012–13?",
+    "entity": "Lee_Clarke",
+    "keywords": [
+      "Welling United",
+      "Conference South"
+    ]
+  },
+  {
+    "question": "What is the date of birth of Stephan Marasek?",
+    "entity": "Stephan_Marasek",
+    "keywords": [
+      "4 January 1970",
+      "born"
+    ]
+  },
+  {
+    "question": "What is the name of the club's manager as of June 2026?",
+    "entity": "Maryhill_F.C.",
+    "keywords": [
+      "Ross Wilson",
+      "manager"
+    ]
+  },
+  {
+    "question": "What is the name of the director of the film Cocoon?",
+    "entity": "Cocoon_(film)",
+    "keywords": [
+      "Ron Howard",
+      "Cocoon"
+    ]
+  },
+  {
+    "question": "When was York City Football Club founded?",
+    "entity": "York_City_F.C.",
+    "keywords": [
+      "founded",
+      "1922"
+    ]
+  },
+  {
+    "question": "Which club did Toni Kuivasto play for before retiring?",
+    "entity": "Toni_Kuivasto",
+    "keywords": [
+      "FC Haka",
+      "retire"
+    ]
+  },
+  {
+    "question": "How many caps did Fernando Álvez earn for the Uruguay national team?",
+    "entity": "Fernando_Álvez",
+    "keywords": [
+      "40 caps",
+      "Uruguay national team"
+    ]
+  },
+  {
+    "question": "Who directed Superman II?",
+    "entity": "Superman_II",
+    "keywords": [
+      "Richard Lester",
+      "Superman II"
+    ]
+  },
+  {
+    "question": "What is the full name of Júnior Maranhão?",
+    "entity": "Júnior_Maranhão",
+    "keywords": [
+      "Francisco Pereira da Costa Júnior",
+      "Júnior Maranhão"
+    ]
+  },
+  {
+    "question": "What is Treviso known for being the original production area of?",
+    "entity": "Treviso",
+    "keywords": [
+      "Prosecco wine",
+      "radicchio"
+    ]
+  },
+  {
+    "question": "What league did the Milwaukee Wave United last play in?",
+    "entity": "Milwaukee_Wave_United",
+    "keywords": [
+      "A-League",
+      "second division"
+    ]
+  },
+  {
+    "question": "Which team did Silvano Villa make his Serie A debut against?",
+    "entity": "Silvano_Villa",
+    "keywords": [
+      "Foggia",
+      "Serie A"
+    ]
+  },
+  {
+    "question": "When did FC Dynamo Brest win its first Belarusian Premier League title?",
+    "entity": "FC_Dinamo_Brest",
+    "keywords": [
+      "2019",
+      "Belarusian Premier League"
+    ]
+  },
+  {
+    "question": "What year did Volley Pesaro win its first major title?",
+    "entity": "Robursport_Volley_Pesaro",
+    "keywords": [
+      "2005–06",
+      "CEV Challenge Cup"
+    ]
+  },
+  {
+    "question": "Which club did Márcio Abreu join after leaving C.S. Marítimo?",
+    "entity": "Márcio_Abreu",
+    "keywords": [
+      "A.D. Camacha",
+      "third division"
+    ]
+  },
+  {
+    "question": "Which club did Domagoj Vida join after Beşiktaş?",
+    "entity": "Domagoj_Vida",
+    "keywords": [
+      "AEK Athens",
+      "club"
+    ]
+  },
+  {
+    "question": "When did Georgy Kondratyev make his debut for the Soviet Union?",
+    "entity": "Georgi_Kondratiev",
+    "keywords": [
+      "10 October 1984",
+      "debut"
+    ]
+  },
+  {
+    "question": "What is the former name of Ajaccio Napoleon Bonaparte Airport?",
+    "entity": "Ajaccio_Napoleon_Bonaparte_Airport",
+    "keywords": [
+      "Campo dell'Oro Airport",
+      "former name"
+    ]
+  },
+  {
+    "question": "What position did Arthur Sorin normally play?",
+    "entity": "Arthur_Sorin",
+    "keywords": [
+      "right-back",
+      "midfield"
+    ]
+  },
+  {
+    "question": "What age did Jetro Willems become the youngest player to play in the UEFA European Championship?",
+    "entity": "Jetro_Willems",
+    "keywords": [
+      "18 years",
+      "71 days"
+    ]
+  },
+  {
+    "question": "Which national team did Edgardo Abdala represent?",
+    "entity": "Edgardo_Abdala",
+    "keywords": [
+      "Palestinian national team",
+      "represented"
+    ]
+  },
+  {
+    "question": "What position does Joelson Santos Silva play?",
+    "entity": "Joelson_Santos_Silva",
+    "keywords": [
+      "attacking midfielder",
+      "Joelson"
+    ]
+  },
+  {
+    "question": "Which team did Glen Crowe play for when he became the first League of Ireland player to be capped by Ireland in 16 years?",
+    "entity": "Glen_Crowe",
+    "keywords": [
+      "Bohemians",
+      "capped",
+      "Ireland"
+    ]
+  },
+  {
+    "question": "Which national team did Steeve Elana represent before being called up to the Guinea national team?",
+    "entity": "Steeve_Elana",
+    "keywords": [
+      "Martinique",
+      "national team"
+    ]
+  },
+  {
+    "question": "When did AG København file for bankruptcy?",
+    "entity": "AG_København",
+    "keywords": [
+      "July 31, 2012",
+      "bankruptcy"
+    ]
+  },
+  {
+    "question": "What team did Július Šupler coach to win the Czechoslovakia title in the 1991-92 season?",
+    "entity": "Július_Šupler",
+    "keywords": [
+      "Dukla Trenčín",
+      "Czechoslovakia title"
+    ]
+  },
+  {
+    "question": "What is the official capacity of North Harbour Stadium?",
+    "entity": "New_Zealand_Knights_FC",
+    "keywords": [
+      "25,000",
+      "capacity"
+    ]
+  },
+  {
+    "question": "What year did Greece win the UEFA Euro tournament?",
+    "entity": "Greece_national_football_team",
+    "keywords": [
+      "UEFA Euro 2004",
+      "won",
+      "tournament"
+    ]
+  },
+  {
+    "question": "What tier of the Norwegian football league system does Skeid currently play in?",
+    "entity": "Skeid_Fotball",
+    "keywords": [
+      "2. divisjon",
+      "third tier"
+    ]
+  },
+  {
+    "question": "What was the original name of Netaji Subhas Chandra Bose International Airport?",
+    "entity": "Netaji_Subhas_Chandra_Bose_International_Airport",
+    "keywords": [
+      "Dum Dum Airport",
+      "renamed",
+      "1995"
+    ]
+  },
+  {
+    "question": "How many caps did Witschge earn for the Netherlands?",
+    "entity": "Richard_Witschge",
+    "keywords": [
+      "31 caps",
+      "Netherlands"
+    ]
+  },
+  {
+    "question": "How many league appearances did Karl Munroe make for Macclesfield Town?",
+    "entity": "Karl_Munroe",
+    "keywords": [
+      "119",
+      "Macclesfield Town"
+    ]
+  },
+  {
+    "question": "What position did Shankar Dayal Sharma hold from 1992 to 1997?",
+    "entity": "Shankar_Dayal_Sharma",
+    "keywords": [
+      "president of India",
+      "1992 to 1997"
+    ]
+  },
+  {
+    "question": "What significant invention did Leonard Herzenberg and his wife develop in 1970?",
+    "entity": "Leonard_Herzenberg",
+    "keywords": [
+      "fluorescence-activated cell sorter",
+      "1970"
+    ]
+  },
+  {
+    "question": "What position does Marcelo Herrera, born in 1992, play?",
+    "entity": "Marcelo_Herrera",
+    "keywords": [
+      "defender",
+      "Marcelo Herrera",
+      "1992"
+    ]
+  },
+  {
+    "question": "Who was considered to replace Larry Fine as the middle Stooge after his stroke in 1970?",
+    "entity": "Emil_Sitka",
+    "keywords": [
+      "Emil Sitka",
+      "middle Stooge"
+    ]
+  },
+  {
+    "question": "Which club did Richard Morales help to win the 1998 Primera División title?",
+    "entity": "Richard_Morales",
+    "keywords": [
+      "Club Nacional de Football",
+      "1998",
+      "Primera División"
+    ]
+  },
+  {
+    "question": "Who directed the film Rififi?",
+    "entity": "Rififi",
+    "keywords": [
+      "Jules Dassin",
+      "directed"
+    ]
+  },
+  {
+    "question": "What is the current league in which Club Sportif Chênois competes?",
+    "entity": "CS_Chênois",
+    "keywords": [
+      "1. Liga Classic",
+      "fourth tier"
+    ]
+  },
+  {
+    "question": "How many goals did Trevor Senior score for Reading in league and cup appearances?",
+    "entity": "Trevor_Senior",
+    "keywords": [
+      "184 goals",
+      "Reading"
+    ]
+  },
+  {
+    "question": "When did Deportivo Alavés reach the UEFA Cup Final?",
+    "entity": "Deportivo_Alavés",
+    "keywords": [
+      "2001",
+      "UEFA Cup Final"
+    ]
+  },
+  {
+    "question": "Who was Mary's husband?",
+    "entity": "Mary,_Queen_of_Hungary",
+    "keywords": [
+      "Sigismund of Luxembourg",
+      "marriage"
+    ]
+  },
+  {
+    "question": "When was Panthrakikos Football Club founded?",
+    "entity": "Panthrakikos_F.C.",
+    "keywords": [
+      "1964",
+      "founded"
+    ]
+  },
+  {
+    "question": "What year was John Benson, the Scottish footballer, born?",
+    "entity": "John_Benson_(footballer)",
+    "keywords": [
+      "1942",
+      "Scottish footballer"
+    ]
+  },
+  {
+    "question": "What is the maximum number of teams that can be promoted to Liga ACB from Primera FEB in a season?",
+    "entity": "Liga_Española_de_Baloncesto",
+    "keywords": [
+      "two",
+      "promotes",
+      "Liga ACB"
+    ]
+  },
+  {
+    "question": "When was Dorchester Town Football Club reformed?",
+    "entity": "Dorchester_Town_F.C.",
+    "keywords": [
+      "18 October 1880",
+      "reformed"
+    ]
+  },
+  {
+    "question": "How many times has Mikkel Hansen won the IHF World Player of the Year?",
+    "entity": "Mikkel_Hansen",
+    "keywords": [
+      "three times",
+      "IHF World Player of the Year"
+    ]
+  },
+  {
+    "question": "Who was the French physicist mentioned in the text?",
+    "entity": "Petit",
+    "keywords": [
+      "Alexis Thérèse Petit",
+      "French physicist"
+    ]
+  },
+  {
+    "question": "When did Aleksei Kosolapov make his debut for Russia?",
+    "entity": "Alexei_Kosolapov",
+    "keywords": [
+      "6 October 1993",
+      "debut",
+      "Russia"
+    ]
+  },
+  {
+    "question": "How many times has the United States men's national soccer team qualified for the FIFA World Cup?",
+    "entity": "United_States_men's_national_soccer_team",
+    "keywords": [
+      "twelve times",
+      "FIFA World Cup"
+    ]
+  },
+  {
+    "question": "When was Rio Branco Football Club founded?",
+    "entity": "Rio_Branco_Football_Club",
+    "keywords": [
+      "8 June 1919",
+      "founded"
+    ]
+  },
+  {
+    "question": "When was Club de Gimnasia y Esgrima La Plata founded?",
+    "entity": "Club_de_Gimnasia_y_Esgrima_La_Plata",
+    "keywords": [
+      "3 June 1887",
+      "founded"
+    ]
+  },
+  {
+    "question": "How many MLS Cups has D.C. United won?",
+    "entity": "D.C._United",
+    "keywords": [
+      "four",
+      "MLS Cups"
+    ]
+  },
+  {
+    "question": "Who directed the film Stoned?",
+    "entity": "Stoned_(film)",
+    "keywords": [
+      "Stephen Woolley",
+      "directed"
+    ]
+  },
+  {
+    "question": "What is the name of the treasure hunter in the film Sahara?",
+    "entity": "Sahara_(2005_film)",
+    "keywords": [
+      "Dirk Pitt",
+      "treasure hunter"
+    ]
+  },
+  {
+    "question": "What year did Sakaryaspor officially become Manisaspor?",
+    "entity": "Manisaspor",
+    "keywords": [
+      "15 June 1965",
+      "Manisaspor"
+    ]
+  },
+  {
+    "question": "What injury did Juan Carlos Rojo suffer in 1986?",
+    "entity": "Juan_Carlos_Rojo",
+    "keywords": [
+      "severe knee injury",
+      "1986"
+    ]
+  },
+  {
+    "question": "Which club did Roman Kosecki score the first goal in their history?",
+    "entity": "Roman_Kosecki",
+    "keywords": [
+      "Chicago Fire",
+      "first goal"
+    ]
+  },
+  {
+    "question": "What is the capital and largest city of the United Kingdom?",
+    "entity": "United_Kingdom",
+    "keywords": [
+      "London",
+      "capital",
+      "largest city"
+    ]
+  },
+  {
+    "question": "What position did Andy Williams play in football?",
+    "entity": "Andy_Williams_(Jamaican_footballer)",
+    "keywords": [
+      "midfielder",
+      "footballer"
+    ]
+  },
+  {
+    "question": "What are the home colors of Athletic Bilbao?",
+    "entity": "Athletic_Bilbao",
+    "keywords": [
+      "red and white",
+      "striped shirts"
+    ]
+  },
+  {
+    "question": "What is the seat of Gmina Osiek?",
+    "entity": "Gmina_Osiek,_Kuyavian-Pomeranian_Voivodeship",
+    "keywords": [
+      "village",
+      "Osiek"
+    ]
+  },
+  {
+    "question": "What were the team's colors?",
+    "entity": "San_Fernando_Valley_Quakes",
+    "keywords": [
+      "blue",
+      "black"
+    ]
+  },
+  {
+    "question": "How many gold medals has the Argentina U-23 football team won in the Summer Olympics?",
+    "entity": "Argentina_national_under-23_football_team",
+    "keywords": [
+      "Gold Medal",
+      "2"
+    ]
+  },
+  {
+    "question": "What major battle in October 1805 assured Britain's naval dominance?",
+    "entity": "War_of_the_Third_Coalition",
+    "keywords": [
+      "Battle of Trafalgar",
+      "naval dominance"
+    ]
+  },
+  {
+    "question": "Which club did Chic Charnley have a trial with in 1994?",
+    "entity": "Chic_Charnley",
+    "keywords": [
+      "Celtic",
+      "trial"
+    ]
+  },
+  {
+    "question": "Who directed the film Aadhavan?",
+    "entity": "Aadhavan",
+    "keywords": [
+      "K. S. Ravikumar",
+      "Aadhavan"
+    ]
+  },
+  {
+    "question": "Which team did Aaron McLean join in January 2011?",
+    "entity": "Aaron_McLean",
+    "keywords": [
+      "Hull City",
+      "January 2011"
+    ]
+  },
+  {
+    "question": "Which team did David Knight last play for as a goalkeeper?",
+    "entity": "David_Knight_(English_footballer)",
+    "keywords": [
+      "Spennymoor Town",
+      "goalkeeper"
+    ]
+  },
+  {
+    "question": "What is the nickname commonly used for the club Os Belenenses?",
+    "entity": "C.F._Os_Belenenses",
+    "keywords": [
+      "O Belém",
+      "Os Pastéis"
+    ]
+  },
+  {
+    "question": "What was Héctor Cúper's nickname?",
+    "entity": "Héctor_Cúper",
+    "keywords": [
+      "Cabezón",
+      "Big head"
+    ]
+  },
+  {
+    "question": "What position does Valberto Amorim dos Santos play?",
+    "entity": "Valberto_Amorim_dos_Santos",
+    "keywords": [
+      "defensive midfielder",
+      "Beto"
+    ]
+  },
+  {
+    "question": "What is the nickname of Burton Albion Football Club?",
+    "entity": "Burton_Albion_F.C.",
+    "keywords": [
+      "The Brewers",
+      "nickname"
+    ]
+  },
+  {
+    "question": "How many UEFA European Under-21 Championships has Italy won?",
+    "entity": "Italy_national_under-21_football_team",
+    "keywords": [
+      "five Championships",
+      "won"
+    ]
+  },
+  {
+    "question": "What was the club's name before it was changed to Akhmat in 2017?",
+    "entity": "FC_Terek_Grozny",
+    "keywords": [
+      "Terek",
+      "Grozny"
+    ]
+  },
+  {
+    "question": "What are the official colors of Vålerenga Fotball?",
+    "entity": "Vålerenga_Fotball",
+    "keywords": [
+      "blue",
+      "red"
+    ]
+  },
+  {
+    "question": "When was Gençlerbirliği Spor Kulübü founded?",
+    "entity": "Gençlerbirliği_S.K.",
+    "keywords": [
+      "14 March 1923",
+      "founded"
+    ]
+  },
+  {
+    "question": "When did Ventura County Fusion play their first competitive game?",
+    "entity": "Ventura_County_Fusion",
+    "keywords": [
+      "April 28, 2007",
+      "first competitive game"
+    ]
+  },
+  {
+    "question": "What is the highest honour won by AS Cannes?",
+    "entity": "AS_Cannes",
+    "keywords": [
+      "Coupe de France",
+      "1932"
+    ]
+  },
+  {
+    "question": "What medal did Christiane Fürst win at the 2003 Women's European Volleyball Championship?",
+    "entity": "Christiane_Fürst",
+    "keywords": [
+      "bronze medal",
+      "2003 Women's European Volleyball Championship"
+    ]
+  },
+  {
+    "question": "What position did Maheta Molango hold at the Professional Footballers' Association?",
+    "entity": "Maheta_Molango",
+    "keywords": [
+      "Chief Executive",
+      "Professional Footballers' Association"
+    ]
+  },
+  {
+    "question": "What are the club colours of Real Valladolid?",
+    "entity": "Real_Valladolid",
+    "keywords": [
+      "violet",
+      "white"
+    ]
+  },
+  {
+    "question": "What year was the York Region Shooters formed?",
+    "entity": "York_Region_Shooters",
+    "keywords": [
+      "2003",
+      "formed"
+    ]
+  },
+  {
+    "question": "What is the nickname of Reading Football Club?",
+    "entity": "Reading_F.C.",
+    "keywords": [
+      "The Royals",
+      "nickname"
+    ]
+  },
+  {
+    "question": "What medal did Nicolás Medina win at the 2004 Olympics?",
+    "entity": "Nicolás_Medina",
+    "keywords": [
+      "gold medal",
+      "2004 Olympics"
+    ]
+  },
+  {
+    "question": "What is the capital city of Karnataka?",
+    "entity": "Karnataka",
+    "keywords": [
+      "Bengaluru",
+      "capital"
+    ]
+  },
+  {
+    "question": "Who acquired a minority stake in the Charlotte Hornets in 2006?",
+    "entity": "Charlotte_Hornets",
+    "keywords": [
+      "Michael Jordan",
+      "minority stake"
+    ]
+  },
+  {
+    "question": "What position did Jimmy Lawlor play in football?",
+    "entity": "Jimmy_Lawlor",
+    "keywords": [
+      "centre half",
+      "footballer"
+    ]
+  },
+  {
+    "question": "How many times was Krankl named Austrian Player of the Year?",
+    "entity": "Hans_Krankl",
+    "keywords": [
+      "five times",
+      "Austrian Player of the Year"
+    ]
+  },
+  {
+    "question": "What is the governing body of the Turkey national under-17 football team?",
+    "entity": "Turkey_national_under-17_football_team",
+    "keywords": [
+      "Turkish Football Federation",
+      "controlled"
+    ]
+  },
+  {
+    "question": "When was Hapoel Tel Aviv Basketball Club founded?",
+    "entity": "Hapoel_Tel_Aviv_B.C.",
+    "keywords": [
+      "1935",
+      "founded"
+    ]
+  },
+  {
+    "question": "When did Malta play its first official game?",
+    "entity": "Malta_national_football_team",
+    "keywords": [
+      "1957",
+      "first official game"
+    ]
+  },
+  {
+    "question": "What governing body controls the Spain national under-20 football team?",
+    "entity": "Spain_national_under-20_football_team",
+    "keywords": [
+      "Royal Spanish Football Federation",
+      "RFEF"
+    ]
+  },
+  {
+    "question": "What is the name of the stadium where Querétaro F.C. plays its home matches?",
+    "entity": "Querétaro_F.C.",
+    "keywords": [
+      "Estadio Corregidora",
+      "Querétaro"
+    ]
+  },
+  {
+    "question": "What was Dennis Hopson's scoring average during his junior year at Ohio State University?",
+    "entity": "Dennis_Hopson",
+    "keywords": [
+      "20.9 points",
+      "junior year"
+    ]
+  },
+  {
+    "question": "Who directed the 1999 animated film Tarzan?",
+    "entity": "Tarzan_(1999_film)",
+    "keywords": [
+      "Kevin Lima",
+      "Chris Buck"
+    ]
+  },
+  {
+    "question": "What was the original name of Ashland before it was changed in 1854?",
+    "entity": "Ashland,_Kentucky",
+    "keywords": [
+      "Poage's Landing",
+      "Poage Settlement"
+    ]
+  },
+  {
+    "question": "Who is the Chilean football coach and former player born in 1968?",
+    "entity": "José_Luis_Sierra",
+    "keywords": [
+      "José Luis Sierra",
+      "footballer, born 1968"
+    ]
+  },
+  {
+    "question": "When did Grigory Kenkishvili make his Russian Football National League debut?",
+    "entity": "Grigory_Kenkishvili",
+    "keywords": [
+      "29 March 2003",
+      "debut"
+    ]
+  },
+  {
+    "question": "What is the core colour of Brisbane Roar Football Club?",
+    "entity": "Brisbane_Roar_FC",
+    "keywords": [
+      "orange",
+      "Dutch heritage"
+    ]
+  },
+  {
+    "question": "In which division was Rákospalotai EAC promoted to for the 2005–06 season?",
+    "entity": "Rákospalotai_EAC",
+    "keywords": [
+      "Nemzeti Bajnokság I",
+      "first division"
+    ]
+  },
+  {
+    "question": "What nickname was Giuseppe Casari known by during his career?",
+    "entity": "Giuseppe_Casari",
+    "keywords": [
+      "il gigante buono",
+      "nickname"
+    ]
+  },
+  {
+    "question": "Which club did Rui Borges contribute to their first ever top-flight promotion in 2008?",
+    "entity": "Rui_Fernando_Nascimento_Borges",
+    "keywords": [
+      "Trofense",
+      "promotion"
+    ]
+  },
+  {
+    "question": "How many times has the Thailand national under-23 football team won the Southeast Asian Games gold medal?",
+    "entity": "Thailand_national_under-23_football_team",
+    "keywords": [
+      "seven times",
+      "Southeast Asian Games"
+    ]
+  },
+  {
+    "question": "When did Vincent Laban make his debut for the Cyprus national team?",
+    "entity": "Vincent_Laban",
+    "keywords": [
+      "15 August 2012",
+      "debut",
+      "Cyprus national team"
+    ]
+  },
+  {
+    "question": "Which team did Bonazzoli coach in the 2018–19 Serie A season?",
+    "entity": "Emiliano_Bonazzoli",
+    "keywords": [
+      "Chievo Women",
+      "2018–19 Serie A"
+    ]
+  },
+  {
+    "question": "Who are the main characters employed as carpet layers in Fuelin' Around?",
+    "entity": "Fuelin'_Around",
+    "keywords": [
+      "The Three Stooges",
+      "carpet layers"
+    ]
+  },
+  {
+    "question": "What was the first film noir directed by Ida Lupino?",
+    "entity": "Ida_Lupino",
+    "keywords": [
+      "The Hitch-Hiker",
+      "1953"
+    ]
+  },
+  {
+    "question": "Which clubs did Stanislav Vlček play for during his career?",
+    "entity": "Stanislav_Vlček",
+    "keywords": [
+      "Slavia Prague",
+      "Anderlecht",
+      "Dynamo Moscow"
+    ]
+  },
+  {
+    "question": "Who designed and built the airport in 1942?",
+    "entity": "Agartala_Airport",
+    "keywords": [
+      "Maharaja",
+      "Bir Bikram Kishore Manikya Bahadur Debbarman"
+    ]
+  },
+  {
+    "question": "Which award did Luís Figo win in 2000?",
+    "entity": "Luís_Figo",
+    "keywords": [
+      "Ballon d'Or",
+      "2000"
+    ]
+  },
+  {
+    "question": "Who directed and wrote Caught in a Cabaret?",
+    "entity": "Caught_in_a_Cabaret",
+    "keywords": [
+      "Mabel Normand",
+      "directed",
+      "wrote"
+    ]
+  },
+  {
+    "question": "What is the capacity of the Parc Olympique Lyonnais?",
+    "entity": "Olympique_Lyonnais",
+    "keywords": [
+      "59,186-capacity",
+      "Parc Olympique Lyonnais"
+    ]
+  },
+  {
+    "question": "How many league titles has Dinamo Zagreb won?",
+    "entity": "GNK_Dinamo_Zagreb",
+    "keywords": [
+      "twenty-six",
+      "league titles"
+    ]
+  },
+  {
+    "question": "When did Equatorial Guinea play its first international match?",
+    "entity": "Equatorial_Guinea_national_football_team",
+    "keywords": [
+      "23 May 1975",
+      "first match"
+    ]
+  },
+  {
+    "question": "Which teams did Peter Creamer play for in the Football League?",
+    "entity": "Peter_Creamer",
+    "keywords": [
+      "Middlesbrough",
+      "York City",
+      "Doncaster Rovers",
+      "Hartlepool United",
+      "Rochdale"
+    ]
+  },
+  {
+    "question": "What league does Yangju Citizen Football Club belong to?",
+    "entity": "Yangju_Citizen_FC",
+    "keywords": [
+      "K3 League",
+      "third tier"
+    ]
+  },
+  {
+    "question": "What was Eric Hobsbawm's best-known tetralogy about?",
+    "entity": "Eric_Hobsbawm",
+    "keywords": [
+      "long 19th century",
+      "short 20th century"
+    ]
+  },
+  {
+    "question": "What is the highest point in Blekinge County located in Olofström Municipality?",
+    "entity": "Olofström_Municipality",
+    "keywords": [
+      "Rävabacken",
+      "highest point"
+    ]
+  },
+  {
+    "question": "What is the nickname of Reggina due to their official color?",
+    "entity": "Reggina_Calcio",
+    "keywords": [
+      "Amaranto",
+      "dark red"
+    ]
+  },
+  {
+    "question": "When was Rosario Central officially founded?",
+    "entity": "Rosario_Central",
+    "keywords": [
+      "24 December 1889",
+      "founded"
+    ]
+  },
+  {
+    "question": "When was SC Wormatia formed?",
+    "entity": "Wormatia_Worms",
+    "keywords": [
+      "23 May 1908",
+      "SC Wormatia"
+    ]
+  },
+  {
+    "question": "Which club did Tal Banin join after Hapoel Haifa?",
+    "entity": "Tal_Banin",
+    "keywords": [
+      "Maccabi Haifa",
+      "arch rivals"
+    ]
+  },
+  {
+    "question": "What was Roy Aitken's playing position?",
+    "entity": "Roy_Aitken",
+    "keywords": [
+      "midfield",
+      "defence"
+    ]
+  },
+  {
+    "question": "What year was the Declaration of Independence adopted?",
+    "entity": "United_States",
+    "keywords": [
+      "Fourth of July",
+      "Declaration of Independence",
+      "1776"
+    ]
+  },
+  {
+    "question": "What position did Richard Anthony hold in the Cork Typographical Association?",
+    "entity": "Richard_Anthony_(politician)",
+    "keywords": [
+      "president",
+      "Cork Typographical Association"
+    ]
+  },
+  {
+    "question": "Which club did Dylan Hughes join after leaving the Netherlands in summer 2008?",
+    "entity": "Dylan_Hughes",
+    "keywords": [
+      "Makedonikos",
+      "Beta Ethniki"
+    ]
+  },
+  {
+    "question": "When was Gil Vicente Futebol Clube founded?",
+    "entity": "Gil_Vicente_F.C.",
+    "keywords": [
+      "founded in 1924",
+      "Gil Vicente"
+    ]
+  },
+  {
+    "question": "Which club did Ljubomir Radanović play for in the Yugoslav First League?",
+    "entity": "Ljubomir_Radanović",
+    "keywords": [
+      "Partizan",
+      "Yugoslav First League"
+    ]
+  },
+  {
+    "question": "What is the name of Felipe Quintero's grandfather who was a former goalkeeper?",
+    "entity": "Felipe_Quintero",
+    "keywords": [
+      "Francisco Quintero Nava",
+      "goalkeeper"
+    ]
+  },
+  {
+    "question": "What position did Patrick Colleter play?",
+    "entity": "Patrick_Colleter",
+    "keywords": [
+      "full-back",
+      "footballer"
+    ]
+  },
+  {
+    "question": "What university did Horace Jenkins attend where he was a three-time Division III Player of the Year?",
+    "entity": "Horace_Jenkins",
+    "keywords": [
+      "William Paterson University",
+      "Division III Player of the Year"
+    ]
+  },
+  {
+    "question": "What role is William Hopper best known for in television?",
+    "entity": "William_Hopper",
+    "keywords": [
+      "Paul Drake",
+      "Perry Mason"
+    ]
+  },
+  {
+    "question": "What year did Josh Smith win the NCAA Division III Player of the Year?",
+    "entity": "Josh_Smith_(soccer)",
+    "keywords": [
+      "2003",
+      "NCAA Division III Player of the Year"
+    ]
+  },
+  {
+    "question": "Which club did Luciano Vella return to in 2008?",
+    "entity": "Luciano_Vella",
+    "keywords": [
+      "Vélez Sársfield",
+      "2008"
+    ]
+  },
+  {
+    "question": "What club did Ricardo Moniz manage as of August 2025?",
+    "entity": "Ricardo_Moniz",
+    "keywords": [
+      "Trenčín",
+      "head coach"
+    ]
+  },
+  {
+    "question": "When was Khartoum International Airport shut down during the Sudanese civil war?",
+    "entity": "Khartoum_International_Airport",
+    "keywords": [
+      "15 April 2023",
+      "25 March 2025"
+    ]
+  },
+  {
+    "question": "What injury did Albert Jorquera suffer while playing for the Catalonia national team?",
+    "entity": "Albert_Jorquera",
+    "keywords": [
+      "anterior cruciate ligament",
+      "injury"
+    ]
+  },
+  {
+    "question": "Who are the artists of the 2023 album 'Love in Exile'?",
+    "entity": "Love_in_Exile",
+    "keywords": [
+      "Arooj Aftab",
+      "Vijay Iyer"
+    ]
+  },
+  {
+    "question": "What is the nickname of Borussia Mönchengladbach?",
+    "entity": "Borussia_Mönchengladbach",
+    "keywords": [
+      "Die Fohlen",
+      "The Foals"
+    ]
+  },
+  {
+    "question": "What is the nickname of Santa Cruz Futebol Clube?",
+    "entity": "Santa_Cruz_Futebol_Clube",
+    "keywords": [
+      "O Mais Querido das Multidões",
+      "nickname"
+    ]
+  },
+  {
+    "question": "What award did Penélope Cruz win for her role in Vicky Cristina Barcelona?",
+    "entity": "Penélope_Cruz",
+    "keywords": [
+      "Academy Award",
+      "Best Supporting Actress"
+    ]
+  },
+  {
+    "question": "When did Chelsea win their first UEFA Champions League title?",
+    "entity": "Chelsea_F.C.",
+    "keywords": [
+      "2012",
+      "UEFA Champions League"
+    ]
+  },
+  {
+    "question": "What is the height of Dragan Lukovski?",
+    "entity": "Dragan_Lukovski",
+    "keywords": [
+      "1.91 m",
+      "6 ft 3 in"
+    ]
+  }
+]
