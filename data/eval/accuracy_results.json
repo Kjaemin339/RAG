@@ -1,0 +1,3210 @@
+{
+  "records": [
+    {
+      "entity": "Edgardo_Abdala",
+      "question": "What position did Edgardo Abdala play as?",
+      "question_type": "word",
+      "ground_truth": "midfielder",
+      "generated_answer": "Edgardo Abdala played as a midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "Edgardo_Abdala",
+      "question": "Did Edgardo Abdala represent the Palestinian national team?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Edgardo Abdala는 팔레스타인 국가대표팀을 대표했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Edwin_Holliday",
+      "question": "What position did Edwin Holliday play as?",
+      "question_type": "word",
+      "ground_truth": "outside left",
+      "generated_answer": "Edwin Holliday played as an outside left.",
+      "correct": 1
+    },
+    {
+      "entity": "Edwin_Holliday",
+      "question": "When was Edwin Holliday born?",
+      "question_type": "number",
+      "ground_truth": "17 June 1939",
+      "generated_answer": "Edwin Holliday was born on 17 June 1939.",
+      "correct": 1
+    },
+    {
+      "entity": "Emanuele_Concetti",
+      "question": "What was Emanuele Concetti's former playing position?",
+      "question_type": "word",
+      "ground_truth": "goalkeeper",
+      "generated_answer": "Emanuele Concetti's former playing position was goalkeeper.",
+      "correct": 1
+    },
+    {
+      "entity": "Emanuele_Concetti",
+      "question": "Is Emanuele Concetti the goalkeeping coach for Roma's Under-18 squad?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Emanuele Concetti는 로마의 U-18 팀의 골키퍼 코치입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Emil_Sitka",
+      "question": "What comedy group is Emil Sitka best known for appearing with?",
+      "question_type": "word",
+      "ground_truth": "The Three Stooges",
+      "generated_answer": "Emil Sitka is best known for appearing with The Three Stooges.",
+      "correct": 1
+    },
+    {
+      "entity": "Emil_Sitka",
+      "question": "When did Emil Sitka die?",
+      "question_type": "number",
+      "ground_truth": "January 16, 1998",
+      "generated_answer": "Emil Sitka died on January 16, 1998.",
+      "correct": 1
+    },
+    {
+      "entity": "England_national_under-21_football_team",
+      "question": "Which organization controls the England national under-21 football team?",
+      "question_type": "word",
+      "ground_truth": "the Football Association",
+      "generated_answer": "The England national under-21 football team is controlled by the Football Association.",
+      "correct": 1
+    },
+    {
+      "entity": "England_national_under-21_football_team",
+      "question": "Is the England under-21 team considered a feeder team for the senior England national football team?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, England under-21 팀은 England 국가대표팀의 피더 팀으로 간주됩니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Eric_Maskin",
+      "question": "What field is Eric Maskin associated with?",
+      "question_type": "word",
+      "ground_truth": "economics and mathematics",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Eric_Maskin",
+      "question": "In what year did Eric Maskin receive the Nobel Memorial Prize in Economic Sciences?",
+      "question_type": "number",
+      "ground_truth": "2007",
+      "generated_answer": "Eric Maskin received the Nobel Memorial Prize in Economic Sciences in 2007.",
+      "correct": 1
+    },
+    {
+      "entity": "Eric_Rapo",
+      "question": "What position did Eric Rapo play as?",
+      "question_type": "word",
+      "ground_truth": "goalkeeper",
+      "generated_answer": "Eric Rapo played as a goalkeeper.",
+      "correct": 1
+    },
+    {
+      "entity": "Eric_Rapo",
+      "question": "Was Eric Rapo a Swiss footballer?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "Ja, Éric Rapo war ein Schweizer Fußballer.",
+      "correct": 1
+    },
+    {
+      "entity": "Esteban_Cambiasso",
+      "question": "What nickname is Esteban Cambiasso known by?",
+      "question_type": "word",
+      "ground_truth": "Cuchu",
+      "generated_answer": "Esteban Cambiasso is known by the nickname \"Cuchu\".",
+      "correct": 1
+    },
+    {
+      "entity": "Esteban_Cambiasso",
+      "question": "How many official titles did Esteban Cambiasso win during his career?",
+      "question_type": "number",
+      "ground_truth": "21",
+      "generated_answer": "Esteban Cambiasso won 21 official titles during his career.",
+      "correct": 1
+    },
+    {
+      "entity": "Everton_F.C.",
+      "question": "In which city is Everton Football Club based?",
+      "question_type": "word",
+      "ground_truth": "Liverpool",
+      "generated_answer": "Everton Football Club is based in Liverpool, England.",
+      "correct": 1
+    },
+    {
+      "entity": "Everton_F.C.",
+      "question": "In what year was Everton founded?",
+      "question_type": "number",
+      "ground_truth": "1878",
+      "generated_answer": "Everton was founded in 1878.",
+      "correct": 1
+    },
+    {
+      "entity": "F.C._Esperia_Viareggio",
+      "question": "In which Italian region is Viareggio Calcio located?",
+      "question_type": "word",
+      "ground_truth": "Tuscany",
+      "generated_answer": "Viareggio Calcio는 이탈리아의 투스카니(Tuscany) 지역에 위치해 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "F.C._Esperia_Viareggio",
+      "question": "As of the 2021-22 season, which division did Viareggio Calcio play in?",
+      "question_type": "word",
+      "ground_truth": "Tuscan Second Category",
+      "generated_answer": "Viareggio Calcio는 2021-22 시즌에 Tuscan Second Category에서 경기를 했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Carl_Zeiss_Jena",
+      "question": "In which German state is FC Carl Zeiss Jena based?",
+      "question_type": "word",
+      "ground_truth": "Thuringia",
+      "generated_answer": "FC Carl Zeiss Jena is based in the state of Thuringia, Germany.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Carl_Zeiss_Jena",
+      "question": "In what year was FC Carl Zeiss Jena founded?",
+      "question_type": "number",
+      "ground_truth": "1903",
+      "generated_answer": "FC Carl Zeiss Jena was founded in May 1903.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Dinamo_Brest",
+      "question": "In which city is FC Dynamo Brest based?",
+      "question_type": "word",
+      "ground_truth": "Brest",
+      "generated_answer": "FC Dynamo Brest is based in Brest.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Dinamo_Brest",
+      "question": "In what year did Dynamo Brest win its first Belarusian Premier League title?",
+      "question_type": "number",
+      "ground_truth": "2019",
+      "generated_answer": "Dynamo Brest won its first Belarusian Premier League title in 2019.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Red_Bull_Salzburg",
+      "question": "What is Red Bull Salzburg's home ground?",
+      "question_type": "word",
+      "ground_truth": "Red Bull Arena",
+      "generated_answer": "Red Bull Salzburg's home ground is the Red Bull Arena.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Red_Bull_Salzburg",
+      "question": "Was Red Bull Salzburg originally known as SV Austria Salzburg?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Red Bull Salzburg는 원래 SV Austria Salzburg로 알려져 있었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Swarovski_Tirol",
+      "question": "In which Austrian city was FC Swarovski Tirol based?",
+      "question_type": "word",
+      "ground_truth": "Innsbruck",
+      "generated_answer": "FC Swarovski Tirol was based in Innsbruck, Tyrol, Austria.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Swarovski_Tirol",
+      "question": "From what year to what year did FC Swarovski Tirol exist?",
+      "question_type": "number",
+      "ground_truth": "1986 to 1992",
+      "generated_answer": "FC Swarovski Tirol existed from 1986 to 1992.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Zirka_Kirovohrad",
+      "question": "From which Ukrainian city is FC Zirka Kropyvnytskyi?",
+      "question_type": "word",
+      "ground_truth": "Kropyvnytskyi",
+      "generated_answer": "FC Zirka Kropyvnytskyi is from the city of Kropyvnytskyi.",
+      "correct": 1
+    },
+    {
+      "entity": "FC_Zirka_Kirovohrad",
+      "question": "In what year did the club's professional football history start?",
+      "question_type": "number",
+      "ground_truth": "1958",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "FK_Obilić",
+      "question": "Which medieval Serbian hero was FK Obilic named after?",
+      "question_type": "word",
+      "ground_truth": "Milos Obilic",
+      "generated_answer": "FK Obilić was named after the medieval Serbian hero Miloš Obilić.",
+      "correct": 1
+    },
+    {
+      "entity": "FK_Obilić",
+      "question": "In what year did Obilic become national league champion?",
+      "question_type": "number",
+      "ground_truth": "1998",
+      "generated_answer": "Obilić became national league champion in 1998.",
+      "correct": 1
+    },
+    {
+      "entity": "France",
+      "question": "What is the official name of France?",
+      "question_type": "word",
+      "ground_truth": "the French Republic",
+      "generated_answer": "The official name of France is the French Republic.",
+      "correct": 1
+    },
+    {
+      "entity": "France",
+      "question": "How many integral regions does France have?",
+      "question_type": "number",
+      "ground_truth": "18",
+      "generated_answer": "France has 18 integral regions.",
+      "correct": 1
+    },
+    {
+      "entity": "Frédéric_Roux",
+      "question": "What position did Frederic Roux play as?",
+      "question_type": "word",
+      "ground_truth": "goalkeeper",
+      "generated_answer": "Frederic Roux played as a goalkeeper.",
+      "correct": 1
+    },
+    {
+      "entity": "Frédéric_Roux",
+      "question": "In what year did Frederic Roux win the Coupe de la Ligue with Bordeaux?",
+      "question_type": "number",
+      "ground_truth": "2002",
+      "generated_answer": "Frederic Roux won the Coupe de la Ligue with Bordeaux in 2002.",
+      "correct": 1
+    },
+    {
+      "entity": "Fuelin'_Around",
+      "question": "Who directed Fuelin' Around?",
+      "question_type": "word",
+      "ground_truth": "Edward Bernds",
+      "generated_answer": "Fuelin' Around was directed by Edward Bernds.",
+      "correct": 1
+    },
+    {
+      "entity": "Fuelin'_Around",
+      "question": "In what year was Fuelin' Around released?",
+      "question_type": "number",
+      "ground_truth": "1949",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "George_Karl",
+      "question": "Which NBA team did George Karl spend five years playing for?",
+      "question_type": "word",
+      "ground_truth": "San Antonio Spurs",
+      "generated_answer": "George Karl spent five years playing for the San Antonio Spurs.",
+      "correct": 1
+    },
+    {
+      "entity": "George_Karl",
+      "question": "At what age was George Karl named coach of the Cleveland Cavaliers?",
+      "question_type": "number",
+      "ground_truth": "33",
+      "generated_answer": "George Karl was named coach of the Cleveland Cavaliers at age 33.",
+      "correct": 1
+    },
+    {
+      "entity": "George_Mallia",
+      "question": "What position did George Mallia play as?",
+      "question_type": "word",
+      "ground_truth": "midfielder",
+      "generated_answer": "George Mallia played as a midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "George_Mallia",
+      "question": "Was George Mallia born in Sliema, Malta?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, George Mallia는 말타의 슬리마에서 태어났습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Georgi_Kondratiev",
+      "question": "Which national team did Georgi Kondratiev manage?",
+      "question_type": "word",
+      "ground_truth": "Belarus national team",
+      "generated_answer": "Georgi Kondratiev managed the Belarus national team.",
+      "correct": 1
+    },
+    {
+      "entity": "Georgi_Kondratiev",
+      "question": "In what year did Georgi Kondratiev manage Belshina Bobruisk?",
+      "question_type": "number",
+      "ground_truth": "2018",
+      "generated_answer": "Georgi Kondratiev managed Belshina Bobruisk in 2018.",
+      "correct": 1
+    },
+    {
+      "entity": "Gil_Vicente_F.C.",
+      "question": "In which city does Gil Vicente Futebol Clube play?",
+      "question_type": "word",
+      "ground_truth": "Barcelos",
+      "generated_answer": "Gil Vicente Futebol Clube plays in Barcelos.",
+      "correct": 1
+    },
+    {
+      "entity": "Gil_Vicente_F.C.",
+      "question": "In what year was Gil Vicente founded?",
+      "question_type": "number",
+      "ground_truth": "1924",
+      "generated_answer": "Gil Vicente was founded in 1924.",
+      "correct": 1
+    },
+    {
+      "entity": "Giuliano_Oliviero",
+      "question": "What position did Giuliano Oliviero play?",
+      "question_type": "word",
+      "ground_truth": "midfielder",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Giuliano_Oliviero",
+      "question": "Is Giuliano Oliviero the head coach of Rally Madison FC in the USL W League?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Giuliano Oliviero는 USL W 리그의 Rally Madison FC의 수석 코치입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Giuseppe_Casari",
+      "question": "What position did Giuseppe Casari play as?",
+      "question_type": "word",
+      "ground_truth": "goalkeeper",
+      "generated_answer": "Giuseppe Casari played as a goalkeeper.",
+      "correct": 1
+    },
+    {
+      "entity": "Giuseppe_Casari",
+      "question": "When was Giuseppe Casari born?",
+      "question_type": "number",
+      "ground_truth": "10 April 1922",
+      "generated_answer": "Giuseppe Casari was born on 10 April 1922.",
+      "correct": 1
+    },
+    {
+      "entity": "Giuseppe_Viani",
+      "question": "What nickname was Giuseppe Viani known by?",
+      "question_type": "word",
+      "ground_truth": "Gipo",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Giuseppe_Viani",
+      "question": "What position did Giuseppe Viani play as?",
+      "question_type": "word",
+      "ground_truth": "midfielder",
+      "generated_answer": "Giuseppe Viani played as a midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "Glen_Crowe",
+      "question": "Which national football team did Glen Crowe represent?",
+      "question_type": "word",
+      "ground_truth": "Republic of Ireland national football team",
+      "generated_answer": "Glen Crowe represented the Republic of Ireland national football team.",
+      "correct": 1
+    },
+    {
+      "entity": "Glen_Crowe",
+      "question": "How many occasions did Glen Crowe represent the Republic of Ireland national football team?",
+      "question_type": "number",
+      "ground_truth": "two",
+      "generated_answer": "Glen Crowe represented the Republic of Ireland national football team on two occasions.",
+      "correct": 1
+    },
+    {
+      "entity": "Gmina_Osiek,_Kuyavian-Pomeranian_Voivodeship",
+      "question": "What is the seat of Gmina Osiek?",
+      "question_type": "word",
+      "ground_truth": "Osiek",
+      "generated_answer": "The seat of Gmina Osiek is the village of Osiek.",
+      "correct": 1
+    },
+    {
+      "entity": "Gmina_Osiek,_Kuyavian-Pomeranian_Voivodeship",
+      "question": "What was the total population of Gmina Osiek as of 2006?",
+      "question_type": "number",
+      "ground_truth": "4,079",
+      "generated_answer": "Gmina Osiek의 2006년 총 인구는 4,079명이었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Gmina_Widawa",
+      "question": "What is the seat of Gmina Widawa?",
+      "question_type": "word",
+      "ground_truth": "Widawa",
+      "generated_answer": "The seat of Gmina Widawa is the village of Widawa.",
+      "correct": 1
+    },
+    {
+      "entity": "Gmina_Widawa",
+      "question": "What area does Gmina Widawa cover?",
+      "question_type": "number",
+      "ground_truth": "178.04 square kilometres",
+      "generated_answer": "Gmina Widawa covers an area of 178.04 square kilometres (68.7 sq mi).",
+      "correct": 1
+    },
+    {
+      "entity": "Golden_State_Warriors",
+      "question": "In which city are the Golden State Warriors based?",
+      "question_type": "word",
+      "ground_truth": "San Francisco",
+      "generated_answer": "The Golden State Warriors are based in San Francisco.",
+      "correct": 1
+    },
+    {
+      "entity": "Golden_State_Warriors",
+      "question": "In what year were the Warriors founded?",
+      "question_type": "number",
+      "ground_truth": "1946",
+      "generated_answer": "The Warriors were founded in 1946.",
+      "correct": 1
+    },
+    {
+      "entity": "Haile_Selassie",
+      "question": "What was Haile Selassie's birth name?",
+      "question_type": "word",
+      "ground_truth": "Ras Tafari Makonnen",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Haile_Selassie",
+      "question": "From what year to what year was Haile Selassie Emperor of Ethiopia?",
+      "question_type": "number",
+      "ground_truth": "1930 to 1974",
+      "generated_answer": "Haile Selassie was Emperor of Ethiopia from 1930 to 1974.",
+      "correct": 1
+    },
+    {
+      "entity": "Hans_Krankl",
+      "question": "What position was Hans Krankl known for playing?",
+      "question_type": "word",
+      "ground_truth": "striker",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Hans_Krankl",
+      "question": "When was Hans Krankl born?",
+      "question_type": "number",
+      "ground_truth": "14 February 1953",
+      "generated_answer": "Hans Krankl was born on 14 February 1953.",
+      "correct": 1
+    },
+    {
+      "entity": "Hartlepool",
+      "question": "In which English county is Hartlepool located?",
+      "question_type": "word",
+      "ground_truth": "County Durham",
+      "generated_answer": "Hartlepool is located in County Durham, England.",
+      "correct": 1
+    },
+    {
+      "entity": "Hartlepool",
+      "question": "In what year were the two towns formally merged into a single borough called Hartlepool?",
+      "question_type": "number",
+      "ground_truth": "1967",
+      "generated_answer": "1967년입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Hartlepool_United_F.C.",
+      "question": "Which league does Hartlepool United compete in?",
+      "question_type": "word",
+      "ground_truth": "National League",
+      "generated_answer": "Hartlepool United competes in the National League, the fifth level of the English football league system.",
+      "correct": 1
+    },
+    {
+      "entity": "Hartlepool_United_F.C.",
+      "question": "In what year were Hartlepool United founded?",
+      "question_type": "number",
+      "ground_truth": "1908",
+      "generated_answer": "Hartlepool United was founded in 1908.",
+      "correct": 1
+    },
+    {
+      "entity": "Harvard_University",
+      "question": "In which city is Harvard University located?",
+      "question_type": "word",
+      "ground_truth": "Cambridge, Massachusetts",
+      "generated_answer": "Harvard University is located in Cambridge, Massachusetts, United States.",
+      "correct": 1
+    },
+    {
+      "entity": "Harvard_University",
+      "question": "In what year was Harvard founded?",
+      "question_type": "number",
+      "ground_truth": "1636",
+      "generated_answer": "Harvard was founded in 1636.",
+      "correct": 1
+    },
+    {
+      "entity": "Helgi_Daníelsson",
+      "question": "What nationality are the footballers named Helgi Danielsson listed in the page?",
+      "question_type": "word",
+      "ground_truth": "Icelandic",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Helgi_Daníelsson",
+      "question": "Does Helgi Danielsson refer to more than one Icelandic footballer?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Helgi Danielsson은 두 명의 아이슬란드 축구 선수를 가리킵니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Helmond_Sport",
+      "question": "In which Dutch province is Helmond Sport based?",
+      "question_type": "word",
+      "ground_truth": "North Brabant",
+      "generated_answer": "Helmond Sport is based in North Brabant.",
+      "correct": 1
+    },
+    {
+      "entity": "Helmond_Sport",
+      "question": "In what year was Helmond Sport founded?",
+      "question_type": "number",
+      "ground_truth": "1967",
+      "generated_answer": "Helmond Sport was founded in the year 1967.",
+      "correct": 1
+    },
+    {
+      "entity": "Helsingin_Jalkapalloklubi",
+      "question": "What is Helsingin Jalkapalloklubi commonly known as?",
+      "question_type": "word",
+      "ground_truth": "HJK Helsinki",
+      "generated_answer": "Helsingin Jalkapalloklubi is commonly known as HJK Helsinki.",
+      "correct": 1
+    },
+    {
+      "entity": "Helsingin_Jalkapalloklubi",
+      "question": "In what year was Helsingin Jalkapalloklubi founded?",
+      "question_type": "number",
+      "ground_truth": "1907",
+      "generated_answer": "Helsingin Jalkapalloklubi was founded in 1907.",
+      "correct": 1
+    },
+    {
+      "entity": "Hereford_United_F.C.",
+      "question": "At what ground did Hereford United play for their entire history?",
+      "question_type": "word",
+      "ground_truth": "Edgar Street",
+      "generated_answer": "Hereford United played at Edgar Street for their entire history.",
+      "correct": 1
+    },
+    {
+      "entity": "Hereford_United_F.C.",
+      "question": "In what year was Hereford United founded?",
+      "question_type": "number",
+      "ground_truth": "1924",
+      "generated_answer": "Hereford United was founded in 1924.",
+      "correct": 1
+    },
+    {
+      "entity": "Huachipato",
+      "question": "In which Chilean city is Huachipato FC based?",
+      "question_type": "word",
+      "ground_truth": "Talcahuano",
+      "generated_answer": "Huachipato FC is based in Talcahuano, Chile.",
+      "correct": 1
+    },
+    {
+      "entity": "Huachipato",
+      "question": "How many times have Huachipato been Chilean champions?",
+      "question_type": "number",
+      "ground_truth": "three",
+      "generated_answer": "Huachipato have been Chilean champions three times.",
+      "correct": 1
+    },
+    {
+      "entity": "Héctor_Cúper",
+      "question": "What was Hector Cuper's nickname as a player?",
+      "question_type": "word",
+      "ground_truth": "Cabezon",
+      "generated_answer": "Héctor Cúper's nickname as a player was \"Cabezón\" (\"Big head\").",
+      "correct": 1
+    },
+    {
+      "entity": "Héctor_Cúper",
+      "question": "In what year was Hector Cuper born?",
+      "question_type": "number",
+      "ground_truth": "1955",
+      "generated_answer": "Héctor Cúper was born in the year 1955.",
+      "correct": 1
+    },
+    {
+      "entity": "İsmail_Özgür_Göktaş",
+      "question": "Which club does Ismail Ozgur Goktas play for?",
+      "question_type": "word",
+      "ground_truth": "Tarsus Idman Yurdu",
+      "generated_answer": "İsmail Özgür Göktaş plays for Tarsus Idman Yurdu.",
+      "correct": 1
+    },
+    {
+      "entity": "İsmail_Özgür_Göktaş",
+      "question": "When was Ismail Ozgur Goktas born?",
+      "question_type": "number",
+      "ground_truth": "23 April 1989",
+      "generated_answer": "İsmail Özgür Göktaş was born on 23 April 1989.",
+      "correct": 1
+    },
+    {
+      "entity": "Jason_Matthews_(footballer)",
+      "question": "At which club is Jason Matthews the goalkeeper coach and director of football?",
+      "question_type": "word",
+      "ground_truth": "Weymouth",
+      "generated_answer": "Jason Matthews is the goalkeeper coach and the director of football at Weymouth.",
+      "correct": 1
+    },
+    {
+      "entity": "Jason_Matthews_(footballer)",
+      "question": "When was Jason Matthews born?",
+      "question_type": "number",
+      "ground_truth": "13 March 1975",
+      "generated_answer": "Jason Matthews was born on 13 March 1975.",
+      "correct": 1
+    },
+    {
+      "entity": "Jesús_Garay",
+      "question": "What position did Jesus Garay play as?",
+      "question_type": "word",
+      "ground_truth": "central defender",
+      "generated_answer": "Jesús Garay played as a central defender.",
+      "correct": 1
+    },
+    {
+      "entity": "Jesús_Garay",
+      "question": "At which World Cup did Jesus Garay appear for Spain?",
+      "question_type": "number",
+      "ground_truth": "1962 World Cup",
+      "generated_answer": "Jesús Garay appeared for Spain at the 1962 World Cup.",
+      "correct": 1
+    },
+    {
+      "entity": "Jobst_of_Moravia",
+      "question": "Which dynasty did Jobst of Moravia belong to?",
+      "question_type": "word",
+      "ground_truth": "House of Luxembourg",
+      "generated_answer": "Jobst of Moravia belonged to the House of Luxembourg.",
+      "correct": 1
+    },
+    {
+      "entity": "Jobst_of_Moravia",
+      "question": "In what year was Jobst of Moravia elected King of Germany?",
+      "question_type": "number",
+      "ground_truth": "1410",
+      "generated_answer": "Jobst of Moravia was elected King of Germany in the year 1410.",
+      "correct": 1
+    },
+    {
+      "entity": "Joe_Benjamin_(footballer)",
+      "question": "What position did Joe Benjamin last play as?",
+      "question_type": "word",
+      "ground_truth": "striker",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Joe_Benjamin_(footballer)",
+      "question": "When was Joe Benjamin born?",
+      "question_type": "number",
+      "ground_truth": "10 October 1990",
+      "generated_answer": "Joe Benjamin was born on 10 October 1990.",
+      "correct": 1
+    },
+    {
+      "entity": "Joe_Roberts",
+      "question": "Which American comic actor is listed under Joe Roberts?",
+      "question_type": "word",
+      "ground_truth": "Joe Roberts (actor)",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Joe_Roberts",
+      "question": "Does Joe Roberts refer to an American basketball player?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, Joe Roberts는 미국 농구 선수를 지칭합니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Joe_Simitian",
+      "question": "Which political party is Joe Simitian a member of?",
+      "question_type": "word",
+      "ground_truth": "Democratic Party",
+      "generated_answer": "Joe Simitian is a member of the Democratic Party.",
+      "correct": 1
+    },
+    {
+      "entity": "Joe_Simitian",
+      "question": "From what year to what year did Joe Simitian represent California's 11th State Senate district?",
+      "question_type": "number",
+      "ground_truth": "2004 to 2012",
+      "generated_answer": "Joe Simitian represented California's 11th State Senate district from 2004 to 2012.",
+      "correct": 1
+    },
+    {
+      "entity": "Joelson_Santos_Silva",
+      "question": "What is Joelson Santos Silva commonly known as?",
+      "question_type": "word",
+      "ground_truth": "Joelson",
+      "generated_answer": "Joelson Santos Silva is commonly known as Joelson.",
+      "correct": 1
+    },
+    {
+      "entity": "Joelson_Santos_Silva",
+      "question": "Which club does Joelson play for?",
+      "question_type": "word",
+      "ground_truth": "Villa Nova Atletico Clube",
+      "generated_answer": "Joelson plays for Villa Nova Atlético Clube.",
+      "correct": 1
+    },
+    {
+      "entity": "John_Benson_(footballer)",
+      "question": "Which typeface was designed by John Benson the artisan?",
+      "question_type": "word",
+      "ground_truth": "Alexa",
+      "generated_answer": "The typeface designed by John Benson the artisan is Alexa.",
+      "correct": 1
+    },
+    {
+      "entity": "John_Benson_(footballer)",
+      "question": "Does John Benson refer to an Irish architect?",
+      "question_type": "yes_no",
+      "ground_truth": "yes",
+      "generated_answer": "네, John Benson은 아일랜드 건축가를 지칭합니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Josh_Smith_(soccer)",
+      "question": "In what year was Josh Smith born?",
+      "question_type": "number",
+      "ground_truth": "1982",
+      "generated_answer": "Josh Smith was born in 1982.",
+      "correct": 1
+    },
+    {
+      "entity": "Josh_Smith_(soccer)",
+      "question": "What position did Josh Smith play?",
+      "question_type": "word",
+      "ground_truth": "midfielder",
+      "generated_answer": "Josh Smith played as a midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "JS_Kabylie",
+      "question": "In what year was JS Kabylie founded?",
+      "question_type": "number",
+      "ground_truth": "1946",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "JS_Kabylie",
+      "question": "Has JS Kabylie ever been relegated to the second division?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Juan_Pablo_Sorín",
+      "question": "How many caps did Juan Pablo Sorín earn for Argentina?",
+      "question_type": "number",
+      "ground_truth": "75",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Juan_Pablo_Sorín",
+      "question": "Was Juan Pablo Sorín the captain of Argentina at the 2006 World Cup?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Juan Pablo Sorín은 2006 FIFA 월드컵에서 아르헨티나의 주장으로 임명되었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Júnior_Maranhão",
+      "question": "In what year was Júnior Maranhão born?",
+      "question_type": "number",
+      "ground_truth": "1977",
+      "generated_answer": "Júnior Maranhão was born in the year 1977.",
+      "correct": 1
+    },
+    {
+      "entity": "Júnior_Maranhão",
+      "question": "Did Júnior Maranhão play in the Campeonato Brasileiro Série B?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Júnior Maranhão은 Campeonato Brasileiro Série B에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Karl_Munroe",
+      "question": "In what year was Karl Munroe born?",
+      "question_type": "number",
+      "ground_truth": "1979",
+      "generated_answer": "Karl Munroe was born in the year 1979.",
+      "correct": 1
+    },
+    {
+      "entity": "Karl_Munroe",
+      "question": "Did Karl Munroe play for Altrincham?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Karl Munroe는 Altrincham에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Karnataka",
+      "question": "In what year was Karnataka formed as Mysore State?",
+      "question_type": "number",
+      "ground_truth": "1956",
+      "generated_answer": "Karnataka was formed as Mysore State on 1 November 1956.",
+      "correct": 1
+    },
+    {
+      "entity": "Karnataka",
+      "question": "What is the capital of Karnataka?",
+      "question_type": "word",
+      "ground_truth": "Bengaluru",
+      "generated_answer": "The capital of Karnataka is Bengaluru.",
+      "correct": 1
+    },
+    {
+      "entity": "Keith_Scott_(footballer)",
+      "question": "In what year was Keith Scott born?",
+      "question_type": "number",
+      "ground_truth": "1967",
+      "generated_answer": "Keith Scott was born in 1967.",
+      "correct": 1
+    },
+    {
+      "entity": "Keith_Scott_(footballer)",
+      "question": "Did Keith Scott play for AFC Bournemouth?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Kingdom_of_England",
+      "question": "In what year were all the Anglo-Saxon kingdoms united under Æthelstan?",
+      "question_type": "number",
+      "ground_truth": "927",
+      "generated_answer": "927년입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Kingdom_of_England",
+      "question": "Did the Kingdom of England unite with Scotland in 1707 to form the Kingdom of Great Britain?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Kingdom of England는 1707년에 Scotland와 통합되어 Kingdom of Great Britain을 형성했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Kuyavian-Pomeranian_Voivodeship",
+      "question": "In what year was the Kuyavian-Pomeranian Voivodeship created?",
+      "question_type": "number",
+      "ground_truth": "1999",
+      "generated_answer": "Kuyavian-Pomeranian Voivodeship was created on 1 January 1999.",
+      "correct": 1
+    },
+    {
+      "entity": "Kuyavian-Pomeranian_Voivodeship",
+      "question": "What are the two joint capital cities of the Kuyavian-Pomeranian Voivodeship?",
+      "question_type": "word",
+      "ground_truth": "Bydgoszcz and Toruń",
+      "generated_answer": "The two joint capital cities of the Kuyavian-Pomeranian Voivodeship are Bydgoszcz and Toruń.",
+      "correct": 1
+    },
+    {
+      "entity": "Lal_Bahadur_Shastri_Airport",
+      "question": "Which city does Lal Bahadur Shastri Airport serve?",
+      "question_type": "word",
+      "ground_truth": "Varanasi",
+      "generated_answer": "Lal Bahadur Shastri Airport serves Varanasi, Uttar Pradesh, India.",
+      "correct": 1
+    },
+    {
+      "entity": "Lal_Bahadur_Shastri_Airport",
+      "question": "In what year was Varanasi Airport renamed after Lal Bahadur Shastri?",
+      "question_type": "number",
+      "ground_truth": "2005",
+      "generated_answer": "Varanasi Airport was officially renamed after Lal Bahadur Shastri in October 2005.",
+      "correct": 1
+    },
+    {
+      "entity": "Lee_Clarke",
+      "question": "In what year was Lee Clarke born?",
+      "question_type": "number",
+      "ground_truth": "1983",
+      "generated_answer": "Lee Clarke was born in 1983.",
+      "correct": 1
+    },
+    {
+      "entity": "Lee_Clarke",
+      "question": "Did Lee Clarke represent Northern Ireland internationally at youth levels?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Lee Clarke는 북아일랜드의 U21 및 U23 청소년 대표팀에서 국제적으로 활동했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Leeds_United_A.F.C.",
+      "question": "What is the name of Leeds United's home stadium?",
+      "question_type": "word",
+      "ground_truth": "Elland Road",
+      "generated_answer": "Leeds United's home stadium is Elland Road.",
+      "correct": 1
+    },
+    {
+      "entity": "Leeds_United_A.F.C.",
+      "question": "How many times have Leeds United won the League Championship?",
+      "question_type": "number",
+      "ground_truth": "3",
+      "generated_answer": "Leeds United have won the League Championship three times.",
+      "correct": 1
+    },
+    {
+      "entity": "Liburd_Henry",
+      "question": "In what year was Liburd Henry born?",
+      "question_type": "number",
+      "ground_truth": "1967",
+      "generated_answer": "Liburd Henry was born in 1967.",
+      "correct": 1
+    },
+    {
+      "entity": "Liburd_Henry",
+      "question": "Did Liburd Henry play for Watford?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Liburd Henry는 Watford에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Lord's_Resistance_Army_insurgency",
+      "question": "Who founded the Lord's Resistance Army?",
+      "question_type": "word",
+      "ground_truth": "Joseph Kony",
+      "generated_answer": "조셉 코니가 주창한 주체로, 그는 주로 우간다의 새로 설치된 대통령 요웨리 무세베니에 대한 반란을 일으키기 위해 주로 우간다에서 활동하는 종교적 극단주의 무장 단체인 주님의 저항군(LRA)을 설립했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Lord's_Resistance_Army_insurgency",
+      "question": "Did the Lord's Resistance Army insurgency begin after the Ugandan Civil War?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Lord's Resistance Army insurgency는 우간다 내전 이후에 시작되었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "László_Sternberg",
+      "question": "In what year did László Sternberg captain Hungary at the FIFA World Cup?",
+      "question_type": "number",
+      "ground_truth": "1934",
+      "generated_answer": "László Sternberg captained Hungary at the FIFA World Cup in 1934.",
+      "correct": 1
+    },
+    {
+      "entity": "László_Sternberg",
+      "question": "Did László Sternberg play for the New York Americans?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, László Sternberg는 1932년에 New York Americans에서 잠시 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Macclesfield_Town_F.C.",
+      "question": "In what year was Macclesfield Town F.C. formed?",
+      "question_type": "number",
+      "ground_truth": "1874",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Macclesfield_Town_F.C.",
+      "question": "Was Macclesfield Town wound up by a High Court ruling in 2020?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Macclesfield Town은 2020년 9월 16일에 고등법원의 판결에 따라 청산되었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Madison,_North_Carolina",
+      "question": "What was the population of Madison, North Carolina at the 2020 census?",
+      "question_type": "number",
+      "ground_truth": "2,132",
+      "generated_answer": "The population of Madison, North Carolina at the 2020 census was 2,132.",
+      "correct": 1
+    },
+    {
+      "entity": "Madison,_North_Carolina",
+      "question": "Was Madison home to the corporate headquarters of Remington Arms?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Madison은 Remington Arms의 본사가 있었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Maheta_Molango",
+      "question": "In what year did Maheta Molango become Chief Executive of the PFA?",
+      "question_type": "number",
+      "ground_truth": "2021",
+      "generated_answer": "Maheta Molango became Chief Executive of the PFA on 1 June 2021.",
+      "correct": 1
+    },
+    {
+      "entity": "Maheta_Molango",
+      "question": "Which club did Maheta Molango serve as Chief Executive of before joining the PFA?",
+      "question_type": "word",
+      "ground_truth": "RCD Mallorca",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "male",
+      "question": "What sex cell does a male organism produce?",
+      "question_type": "word",
+      "ground_truth": "sperm",
+      "generated_answer": "A male organism produces the gamete known as sperm.",
+      "correct": 1
+    },
+    {
+      "entity": "male",
+      "question": "Do most male mammals have a Y chromosome?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 대부분의 수컷 포유류는 Y 염색체를 가지고 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Malta_national_football_team",
+      "question": "In what year did Malta play its first international match?",
+      "question_type": "number",
+      "ground_truth": "1957",
+      "generated_answer": "Malta played its first international match on 24 February 1957.",
+      "correct": 1
+    },
+    {
+      "entity": "Malta_national_football_team",
+      "question": "Has Malta ever qualified for the finals of a major international competition?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Manchester_United_F.C.",
+      "question": "In what year was Manchester United founded as Newton Heath LYR Football Club?",
+      "question_type": "number",
+      "ground_truth": "1878",
+      "generated_answer": "Manchester United was founded as Newton Heath LYR Football Club in 1878.",
+      "correct": 1
+    },
+    {
+      "entity": "Manchester_United_F.C.",
+      "question": "What is Manchester United's nickname?",
+      "question_type": "word",
+      "ground_truth": "the Red Devils",
+      "generated_answer": "Manchester United's nickname is the Red Devils.",
+      "correct": 1
+    },
+    {
+      "entity": "Marcelo_Goianira",
+      "question": "In what year was Marcelo Goianira born?",
+      "question_type": "number",
+      "ground_truth": "1980",
+      "generated_answer": "Marcelo Goianira was born in the year 1980.",
+      "correct": 1
+    },
+    {
+      "entity": "Marcelo_Goianira",
+      "question": "What position does Marcelo Goianira play?",
+      "question_type": "word",
+      "ground_truth": "defensive midfielder",
+      "generated_answer": "Marcelo Goianira plays as a defensive midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "Mariusz_Mowlik",
+      "question": "In what year was Mariusz Mowlik born?",
+      "question_type": "number",
+      "ground_truth": "1981",
+      "generated_answer": "Mariusz Mowlik was born in 1981.",
+      "correct": 1
+    },
+    {
+      "entity": "Mariusz_Mowlik",
+      "question": "What position did Mariusz Mowlik play?",
+      "question_type": "word",
+      "ground_truth": "defender",
+      "generated_answer": "Mariusz Mowlik played as a defender.",
+      "correct": 1
+    },
+    {
+      "entity": "Mark_Jackson_(footballer)",
+      "question": "In what year was Mark Jackson born?",
+      "question_type": "number",
+      "ground_truth": "1965",
+      "generated_answer": "Mark Jackson was born in 1965.",
+      "correct": 1
+    },
+    {
+      "entity": "Mark_Jackson_(footballer)",
+      "question": "Which NBA team did Mark Jackson coach?",
+      "question_type": "word",
+      "ground_truth": "Golden State Warriors",
+      "generated_answer": "Mark Jackson coached the Golden State Warriors.",
+      "correct": 1
+    },
+    {
+      "entity": "Mary,_Queen_of_Hungary",
+      "question": "In what year was Mary crowned as king of Hungary?",
+      "question_type": "number",
+      "ground_truth": "1382",
+      "generated_answer": "Mary was crowned \"king\" of Hungary on 17 September 1382.",
+      "correct": 1
+    },
+    {
+      "entity": "Mary,_Queen_of_Hungary",
+      "question": "Who was Mary, Queen of Hungary's father?",
+      "question_type": "word",
+      "ground_truth": "Louis the Great",
+      "generated_answer": "Mary, Queen of Hungary's father was Louis the Great, King of Hungary and Poland.",
+      "correct": 1
+    },
+    {
+      "entity": "Michal_Nehoda",
+      "question": "In what year was Michal Nehoda born?",
+      "question_type": "number",
+      "ground_truth": "1976",
+      "generated_answer": "Michal Nehoda was born in the year 1976.",
+      "correct": 1
+    },
+    {
+      "entity": "Michal_Nehoda",
+      "question": "Did Michal Nehoda play in Cyprus for Ethnikos Achna?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Michal Nehoda는 Ethnikos Achna에서 사이프러스에서 축구를 했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Mike_Scott_(musician)",
+      "question": "Which band did Scottish musician Mike Scott, born in 1958, found?",
+      "question_type": "word",
+      "ground_truth": "The Waterboys",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Mike_Scott_(musician)",
+      "question": "In what year was Mike Scott, founder of The Waterboys, born?",
+      "question_type": "number",
+      "ground_truth": "1958",
+      "generated_answer": "Mike Scott, founder of The Waterboys, was born in 1958.",
+      "correct": 1
+    },
+    {
+      "entity": "Milwaukee_Wave_United",
+      "question": "In what year was the Milwaukee Wave United formed?",
+      "question_type": "number",
+      "ground_truth": "2002",
+      "generated_answer": "Milwaukee Wave United was formed after the Milwaukee Rampage folded in 2002.",
+      "correct": 1
+    },
+    {
+      "entity": "Milwaukee_Wave_United",
+      "question": "Did the Milwaukee Wave United withdraw from the A-League in 2004?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Milwaukee Wave United는 2004년 11월 9일에 A-League에서 철수한다고 발표했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Nenad_Đorđević",
+      "question": "How many times was Nenad Đorđević capped for Serbia and Montenegro?",
+      "question_type": "number",
+      "ground_truth": "17",
+      "generated_answer": "Nenad Đorđević was capped 17 times for the Serbia and Montenegro national team.",
+      "correct": 1
+    },
+    {
+      "entity": "Nenad_Đorđević",
+      "question": "Which club did Nenad Đorđević join in July 2003?",
+      "question_type": "word",
+      "ground_truth": "Partizan",
+      "generated_answer": "Nenad Đorđević joined Partizan in July 2003.",
+      "correct": 1
+    },
+    {
+      "entity": "New_York_Americans_(soccer)",
+      "question": "In what year were the New York Americans founded?",
+      "question_type": "number",
+      "ground_truth": "1931",
+      "generated_answer": "The New York Americans were founded in 1931.",
+      "correct": 1
+    },
+    {
+      "entity": "New_York_Americans_(soccer)",
+      "question": "Did the New York Americans merge with Brooklyn Hakoah?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Nicola_Sansone",
+      "question": "In what year was Nicola Sansone born?",
+      "question_type": "number",
+      "ground_truth": "1991",
+      "generated_answer": "Nicola Sansone was born in the year 1991.",
+      "correct": 1
+    },
+    {
+      "entity": "Nicola_Sansone",
+      "question": "Was Nicola Sansone born in Germany?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Nicola Sansone는 독일에서 태어났습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Nicolás_Medina",
+      "question": "In what year did Nicolás Medina win a gold medal at the Summer Olympics?",
+      "question_type": "number",
+      "ground_truth": "2004",
+      "generated_answer": "Nicolás Medina won a gold medal at the Summer Olympics in 2004.",
+      "correct": 1
+    },
+    {
+      "entity": "Nicolás_Medina",
+      "question": "What position did Nicolás Medina primarily play?",
+      "question_type": "word",
+      "ground_truth": "central midfielder",
+      "generated_answer": "Nicolás Medina primarily played as a central midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "Nils_Petersen",
+      "question": "How many goals did Nils Petersen score in a single game against Fiji at the 2016 Olympics?",
+      "question_type": "number",
+      "ground_truth": "5",
+      "generated_answer": "Nils Petersen scored five goals in a single game against Fiji at the 2016 Olympics.",
+      "correct": 1
+    },
+    {
+      "entity": "Nils_Petersen",
+      "question": "Did Germany win the gold medal in men's football at the 2016 Olympics?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Northern_Ireland_national_under-21_football_team",
+      "question": "Has Northern Ireland qualified for the finals of the UEFA European Under-21 Championship?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Northern_Ireland_national_under-21_football_team",
+      "question": "Which body controls the Northern Ireland national under-21 football team?",
+      "question_type": "word",
+      "ground_truth": "Irish Football Association",
+      "generated_answer": "The Northern Ireland national under-21 football team is controlled by the Irish Football Association.",
+      "correct": 1
+    },
+    {
+      "entity": "Nuremberg",
+      "question": "In what year was Nuremberg first mentioned?",
+      "question_type": "number",
+      "ground_truth": "1050",
+      "generated_answer": "Nuremberg was first mentioned in 1050.",
+      "correct": 1
+    },
+    {
+      "entity": "Nuremberg",
+      "question": "Which river is Nuremberg situated on?",
+      "question_type": "word",
+      "ground_truth": "Pegnitz",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "O._W._Fischer",
+      "question": "In what year was O. W. Fischer born?",
+      "question_type": "number",
+      "ground_truth": "1915",
+      "generated_answer": "O. W. Fischer was born in the year 1915.",
+      "correct": 1
+    },
+    {
+      "entity": "O._W._Fischer",
+      "question": "In which city was O. W. Fischer born?",
+      "question_type": "word",
+      "ground_truth": "Klosterneuburg",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Ontario",
+      "question": "In what year was 'Ontario' adopted as the official name of the province at Confederation?",
+      "question_type": "number",
+      "ground_truth": "1867",
+      "generated_answer": "Ontario was adopted as the official name of the province at Confederation in 1867.",
+      "correct": 1
+    },
+    {
+      "entity": "Ontario",
+      "question": "What is Ontario's provincial capital?",
+      "question_type": "word",
+      "ground_truth": "Toronto",
+      "generated_answer": "Ontario's provincial capital is Toronto.",
+      "correct": 1
+    },
+    {
+      "entity": "Our_Hospitality",
+      "question": "In what year was Our Hospitality released?",
+      "question_type": "number",
+      "ground_truth": "1923",
+      "generated_answer": "Our Hospitality는 1923년에 개봉되었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Our_Hospitality",
+      "question": "Who directed Our Hospitality alongside John G. Blystone?",
+      "question_type": "word",
+      "ground_truth": "Buster Keaton",
+      "generated_answer": "Buster Keaton이 John G. Blystone와 함께 Our Hospitality를 공동 감독했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Pablo_Granoche",
+      "question": "In what year was Pablo Granoche born?",
+      "question_type": "number",
+      "ground_truth": "1983",
+      "generated_answer": "Pablo Granoche was born in the year 1983.",
+      "correct": 1
+    },
+    {
+      "entity": "Pablo_Granoche",
+      "question": "What was Pablo Granoche's nickname during his playing career?",
+      "question_type": "word",
+      "ground_truth": "El Diablo",
+      "generated_answer": "Pablo Granoche's nickname during his playing career was El Diablo.",
+      "correct": 1
+    },
+    {
+      "entity": "PAEEK",
+      "question": "In what year was PAEEK founded?",
+      "question_type": "number",
+      "ground_truth": "1953",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "PAEEK",
+      "question": "In which city does PAEEK now play in exile?",
+      "question_type": "word",
+      "ground_truth": "Nicosia",
+      "generated_answer": "PAEEK now plays in exile in Nicosia.",
+      "correct": 1
+    },
+    {
+      "entity": "Panthrakikos_F.C.",
+      "question": "In what year was Panthrakikos F.C. founded?",
+      "question_type": "number",
+      "ground_truth": "1964",
+      "generated_answer": "Panthrakikos F.C. was founded in 1964.",
+      "correct": 1
+    },
+    {
+      "entity": "Panthrakikos_F.C.",
+      "question": "In which city is Panthrakikos F.C. based?",
+      "question_type": "word",
+      "ground_truth": "Komotini",
+      "generated_answer": "Panthrakikos F.C. is based in Komotini, Thrace in North Eastern Greece.",
+      "correct": 1
+    },
+    {
+      "entity": "Parma_F.C.",
+      "question": "In what year was Parma Football Club originally founded?",
+      "question_type": "number",
+      "ground_truth": "1913",
+      "generated_answer": "Parma Football Club was originally founded in December 1913.",
+      "correct": 1
+    },
+    {
+      "entity": "Parma_F.C.",
+      "question": "What is the name of Parma's home stadium?",
+      "question_type": "word",
+      "ground_truth": "Stadio Ennio Tardini",
+      "generated_answer": "Parma's home stadium is called Stadio Ennio Tardini.",
+      "correct": 1
+    },
+    {
+      "entity": "Patrick_Colleter",
+      "question": "In what year was Patrick Colleter born?",
+      "question_type": "number",
+      "ground_truth": "1965",
+      "generated_answer": "Patrick Colleter was born in 1965.",
+      "correct": 1
+    },
+    {
+      "entity": "Patrick_Colleter",
+      "question": "Did Patrick Colleter play for Paris Saint-Germain?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Patrick Colleter는 파리 생제르맹에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Pedro_Antonio_Vega_Rodríguez",
+      "question": "In what year was Pedro Antonio Vega Rodríguez born?",
+      "question_type": "number",
+      "ground_truth": "1979",
+      "generated_answer": "Pedro Antonio Vega Rodríguez was born in the year 1979.",
+      "correct": 1
+    },
+    {
+      "entity": "Pedro_Antonio_Vega_Rodríguez",
+      "question": "What position did Pedro Antonio Vega Rodríguez play?",
+      "question_type": "word",
+      "ground_truth": "left winger",
+      "generated_answer": "Pedro Antonio Vega Rodríguez played as a left winger.",
+      "correct": 1
+    },
+    {
+      "entity": "Pedro_Jorge_Santos_Santos",
+      "question": "In what year was Pedro Jorge Santos Santos born?",
+      "question_type": "number",
+      "ground_truth": "1976",
+      "generated_answer": "Pedro Jorge Santos dos Santos was born in the year 1976.",
+      "correct": 1
+    },
+    {
+      "entity": "Pedro_Jorge_Santos_Santos",
+      "question": "What position did Pedro Jorge Santos Santos play?",
+      "question_type": "word",
+      "ground_truth": "central midfielder",
+      "generated_answer": "Pedro Jorge Santos dos Santos played as a central midfielder.",
+      "correct": 1
+    },
+    {
+      "entity": "Peter_Creamer",
+      "question": "In what year was Peter Creamer born?",
+      "question_type": "number",
+      "ground_truth": "1953",
+      "generated_answer": "Peter Creamer was born in the year 1953.",
+      "correct": 1
+    },
+    {
+      "entity": "Peter_Creamer",
+      "question": "Did Peter Creamer play for the Dallas Tornado in the North American Soccer League?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Peter Creamer는 North American Soccer League에서 Dallas Tornado를 위해 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Petit",
+      "question": "Which French footballer named Petit played for France, Arsenal, and Chelsea?",
+      "question_type": "word",
+      "ground_truth": "Emmanuel Petit",
+      "generated_answer": "Emmanuel Petit played for France, Arsenal, and Chelsea.",
+      "correct": 1
+    },
+    {
+      "entity": "Petit",
+      "question": "In what year was Emmanuel Petit born?",
+      "question_type": "number",
+      "ground_truth": "1970",
+      "generated_answer": "Emmanuel Petit was born in 1970.",
+      "correct": 1
+    },
+    {
+      "entity": "Plymouth_Argyle_F.C.",
+      "question": "In what year was Plymouth Argyle founded?",
+      "question_type": "number",
+      "ground_truth": "1886",
+      "generated_answer": "Plymouth Argyle was founded in 1886.",
+      "correct": 1
+    },
+    {
+      "entity": "Plymouth_Argyle_F.C.",
+      "question": "What is Plymouth Argyle's nickname?",
+      "question_type": "word",
+      "ground_truth": "The Pilgrims",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Portadown_F.C.",
+      "question": "In what year was Portadown F.C. formed?",
+      "question_type": "number",
+      "ground_truth": "1887",
+      "generated_answer": "Portadown F.C. was formed in 1887.",
+      "correct": 1
+    },
+    {
+      "entity": "Portadown_F.C.",
+      "question": "What is the name of Portadown's home stadium?",
+      "question_type": "word",
+      "ground_truth": "Shamrock Park",
+      "generated_answer": "Portadown's home stadium is Shamrock Park.",
+      "correct": 1
+    },
+    {
+      "entity": "Rahul_Dev",
+      "question": "In what year was Rahul Dev born?",
+      "question_type": "number",
+      "ground_truth": "1968",
+      "generated_answer": "Rahul Dev was born in the year 1968.",
+      "correct": 1
+    },
+    {
+      "entity": "Rahul_Dev",
+      "question": "What is the name of Rahul Dev's younger brother?",
+      "question_type": "word",
+      "ground_truth": "Mukul Dev",
+      "generated_answer": "Rahul Dev's younger brother is Mukul Dev.",
+      "correct": 1
+    },
+    {
+      "entity": "Reading_F.C.",
+      "question": "In what year was Reading F.C. founded?",
+      "question_type": "number",
+      "ground_truth": "1871",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Reading_F.C.",
+      "question": "Is the home stadium of Reading F.C. the Select Car Leasing Stadium?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Reading F.C.의 홈 스타디움은 Select Car Leasing Stadium입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Remington_Arms",
+      "question": "In what year was Remington Arms founded?",
+      "question_type": "number",
+      "ground_truth": "1816",
+      "generated_answer": "Remington Arms was founded in 1816.",
+      "correct": 1
+    },
+    {
+      "entity": "Remington_Arms",
+      "question": "Is the founder of Remington Arms named Eliphalet?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, the founder of Remington Arms is named Eliphalet Remington.",
+      "correct": 1
+    },
+    {
+      "entity": "Ricardo_Moniz",
+      "question": "In what year was Ricardo Moniz born?",
+      "question_type": "number",
+      "ground_truth": "1964",
+      "generated_answer": "Ricardo Moniz was born in the year 1964.",
+      "correct": 1
+    },
+    {
+      "entity": "Ricardo_Moniz",
+      "question": "Is Ricardo Moniz of Dutch nationality?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Ricardo Moniz는 네덜란드 국적입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Robert_Bly",
+      "question": "In what year was Robert Bly born?",
+      "question_type": "number",
+      "ground_truth": "1926",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Robert_Bly",
+      "question": "Was Robert Bly's profession a poet?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Rosario_Central",
+      "question": "In what year was Rosario Central founded?",
+      "question_type": "number",
+      "ground_truth": "1889",
+      "generated_answer": "Rosario Central was founded on 24 December 1889.",
+      "correct": 1
+    },
+    {
+      "entity": "Rosario_Central",
+      "question": "In which country is the sports club Rosario Central located?",
+      "question_type": "word",
+      "ground_truth": "Argentina",
+      "generated_answer": "Rosario Central is located in Argentina.",
+      "correct": 1
+    },
+    {
+      "entity": "Rui_Fernando_Nascimento_Borges",
+      "question": "In what year was Rui Fernando Nascimento Borges born?",
+      "question_type": "number",
+      "ground_truth": "1973",
+      "generated_answer": "Rui Fernando Nascimento Borges was born in the year 1973.",
+      "correct": 1
+    },
+    {
+      "entity": "Rui_Fernando_Nascimento_Borges",
+      "question": "Was Rui Fernando Nascimento Borges born in the city of Lisbon?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Rui Fernando Nascimento Borges는 리스본에서 태어났습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "SK_Hanácká_Slavia_Kroměříž",
+      "question": "Is 2025 the year when SK Hanácká Slavia Kroměříž will play in the 2. Liga?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "SK_Hanácká_Slavia_Kroměříž",
+      "question": "From which country is the football club SK Hanácká Slavia Kroměříž?",
+      "question_type": "word",
+      "ground_truth": "Czech Republic",
+      "generated_answer": "SK Hanácká Slavia Kroměříž is from the Czech Republic.",
+      "correct": 1
+    },
+    {
+      "entity": "Sam_Hewson",
+      "question": "In what year was Sam Hewson born?",
+      "question_type": "number",
+      "ground_truth": "1988",
+      "generated_answer": "Sam Hewson was born in the year 1988.",
+      "correct": 1
+    },
+    {
+      "entity": "Sam_Hewson",
+      "question": "Is Sam Hewson's nationality English?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "San_Fernando_Valley_Quakes",
+      "question": "In what year was the San Fernando Valley Quakes founded?",
+      "question_type": "number",
+      "ground_truth": "2006",
+      "generated_answer": "San Fernando Valley Quakes was founded in 2006.",
+      "correct": 1
+    },
+    {
+      "entity": "San_Fernando_Valley_Quakes",
+      "question": "Was this team based in California?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "San_Martín_de_San_Juan",
+      "question": "In what year was San Martín de San Juan founded?",
+      "question_type": "number",
+      "ground_truth": "1907",
+      "generated_answer": "San Martín de San Juan was founded on 27 September 1907.",
+      "correct": 1
+    },
+    {
+      "entity": "San_Martín_de_San_Juan",
+      "question": "Is this club an Argentine football club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Santa_Cruz_Futebol_Clube",
+      "question": "In what year was Santa Cruz Futebol Clube founded?",
+      "question_type": "number",
+      "ground_truth": "1914",
+      "generated_answer": "Santa Cruz Futebol Clube was founded on 3 February 1914.",
+      "correct": 1
+    },
+    {
+      "entity": "Santa_Cruz_Futebol_Clube",
+      "question": "Is the city where this club is located Recife?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 이 클럽은 리시프에 위치하고 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Scott_Wagstaff",
+      "question": "In what year was Scott Wagstaff born?",
+      "question_type": "number",
+      "ground_truth": "1990",
+      "generated_answer": "Scott Wagstaff was born in the year 1990.",
+      "correct": 1
+    },
+    {
+      "entity": "Scott_Wagstaff",
+      "question": "Is Scott Wagstaff a midfielder for Dartford?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Scott Wagstaff is a midfielder for Dartford.",
+      "correct": 1
+    },
+    {
+      "entity": "Serigne_Diop",
+      "question": "In what year was Serigne Diop born?",
+      "question_type": "number",
+      "ground_truth": "1988",
+      "generated_answer": "Serigne Diop was born in the year 1988.",
+      "correct": 1
+    },
+    {
+      "entity": "Serigne_Diop",
+      "question": "Was Serigne Diop born in Paris?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Serigne Diop는 파리에서 태어났습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Simone_Zaza",
+      "question": "In what year was Simone Zaza born?",
+      "question_type": "number",
+      "ground_truth": "1991",
+      "generated_answer": "Simone Zaza was born in 1991.",
+      "correct": 1
+    },
+    {
+      "entity": "Simone_Zaza",
+      "question": "Has Simone Zaza ever played for Juventus?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Simone Zaza는 Juventus에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "South_China_AA",
+      "question": "How many First Division titles has South China AA won?",
+      "question_type": "number",
+      "ground_truth": "41",
+      "generated_answer": "South China AA has won a record 41 First Division titles.",
+      "correct": 1
+    },
+    {
+      "entity": "South_China_AA",
+      "question": "Is South China AA a club located in Hong Kong?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, South China AA는 홍콩에 위치한 클럽입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Spain_national_under-20_football_team",
+      "question": "Is September the month when the 2025 FIFA U-20 World Cup starts?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 2025 FIFA U-20 World Cup는 9월 27일에 시작됩니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Spain_national_under-20_football_team",
+      "question": "What is the abbreviation of the association that controls the Spain national under-20 football team?",
+      "question_type": "word",
+      "ground_truth": "RFEF",
+      "generated_answer": "The abbreviation of the association that controls the Spain national under-20 football team is RFEF.",
+      "correct": 1
+    },
+    {
+      "entity": "Sport_Club_Corinthians_Paulista",
+      "question": "In what year was Sport Club Corinthians Paulista founded?",
+      "question_type": "number",
+      "ground_truth": "1910",
+      "generated_answer": "Sport Club Corinthians Paulista was founded in 1910.",
+      "correct": 1
+    },
+    {
+      "entity": "Sport_Club_Corinthians_Paulista",
+      "question": "Is this club based in São Paulo?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Sport_Club_Corinthians_Paulista",
+      "question": "Did Corinthians win their first Campeonato Brasileiro Série A in 1990?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Corinthians는 1990년에 첫 Campeonato Brasileiro Série A를 우승했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Stade_Rennais_F.C.",
+      "question": "In what year was Stade Rennais F.C. founded?",
+      "question_type": "number",
+      "ground_truth": "1901",
+      "generated_answer": "Stade Rennais F.C. was founded on 10 March 1901.",
+      "correct": 1
+    },
+    {
+      "entity": "Stade_Rennais_F.C.",
+      "question": "Is Stade Rennais F.C. a French football club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Stade Rennais F.C.는 프랑스 축구 클럽입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Stanford_University",
+      "question": "In what year was Stanford University founded?",
+      "question_type": "number",
+      "ground_truth": "1885",
+      "generated_answer": "Stanford University was founded in 1885.",
+      "correct": 1
+    },
+    {
+      "entity": "Stanford_University",
+      "question": "In what year was Stanford Research Park established?",
+      "question_type": "number",
+      "ground_truth": "1951",
+      "generated_answer": "Stanford Research Park was established in 1951.",
+      "correct": 1
+    },
+    {
+      "entity": "Stanford_University",
+      "question": "Is this university located in California?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Stephan_Marasek",
+      "question": "In what year was Stephan Marasek born?",
+      "question_type": "number",
+      "ground_truth": "1970",
+      "generated_answer": "Stephan Marasek was born in 1970.",
+      "correct": 1
+    },
+    {
+      "entity": "Stephan_Marasek",
+      "question": "Is Stephan Marasek's nationality Austrian?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Tarsus_Idman_Yurdu",
+      "question": "In what year was Tarsus Idman Yurdu founded?",
+      "question_type": "number",
+      "ground_truth": "1923",
+      "generated_answer": "Tarsus İdman Yurdu was founded in 1923.",
+      "correct": 1
+    },
+    {
+      "entity": "Tarsus_Idman_Yurdu",
+      "question": "Is this a sports club in Turkey?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Terry_Woodberry",
+      "question": "In what year was Terry Woodberry born?",
+      "question_type": "number",
+      "ground_truth": "1963",
+      "generated_answer": "Terry Woodberry was born in 1963.",
+      "correct": 1
+    },
+    {
+      "entity": "Terry_Woodberry",
+      "question": "Did Terry Woodberry play for the US team in the 1992 FIFA Futsal World Cup?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Terry Woodberry는 1992 FIFA Futsal World Cup에서 미국 팀의 일원으로 참가했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "The_Bad_Seed_(1956_film)",
+      "question": "In what year was the film The Bad Seed released?",
+      "question_type": "number",
+      "ground_truth": "1956",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "The_Bad_Seed_(1956_film)",
+      "question": "Was the director of this film Mervyn LeRoy?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "The_Bad_Seed_(1956_film)",
+      "question": "Who wrote the 1954 play that the film The Bad Seed adapts?",
+      "question_type": "word",
+      "ground_truth": "Maxwell Anderson",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Theodor_Meynert",
+      "question": "In what year was Theodor Meynert born?",
+      "question_type": "number",
+      "ground_truth": "1833",
+      "generated_answer": "Theodor Meynert was born in the year 1833.",
+      "correct": 1
+    },
+    {
+      "entity": "Theodor_Meynert",
+      "question": "Was Theodor Meynert born in the city of Dresden?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Theodor Meynert는 드레스덴에서 태어났습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Tom_Kouzmanis",
+      "question": "In what year was Tom Kouzmanis born?",
+      "question_type": "number",
+      "ground_truth": "1973",
+      "generated_answer": "Tom Kouzmanis was born on 22 April 1973.",
+      "correct": 1
+    },
+    {
+      "entity": "Tom_Kouzmanis",
+      "question": "Is Tom Kouzmanis of Canadian nationality?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Toni_Kuivasto",
+      "question": "In what year was Toni Kuivasto born?",
+      "question_type": "number",
+      "ground_truth": "1975",
+      "generated_answer": "Toni Kuivasto was born in the year 1975.",
+      "correct": 1
+    },
+    {
+      "entity": "Toni_Kuivasto",
+      "question": "Is Toni Kuivasto's nationality Finnish?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Toulouse–Blagnac_Airport",
+      "question": "How much land area does Toulouse–Blagnac Airport cover in hectares?",
+      "question_type": "number",
+      "ground_truth": "780",
+      "generated_answer": "Toulouse–Blagnac Airport covers 780 hectares of land.",
+      "correct": 1
+    },
+    {
+      "entity": "Toulouse–Blagnac_Airport",
+      "question": "Is this airport located near Toulouse, France?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Toulouse–Blagnac Airport는 프랑스 툴루즈에서 3.6 해리(6.7 km) 떨어진 곳에 위치해 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Toulouse–Blagnac_Airport",
+      "question": "What is the IATA code for Toulouse–Blagnac Airport?",
+      "question_type": "word",
+      "ground_truth": "TLS",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Treviso",
+      "question": "What was the population of the Treviso municipality as of December 2025?",
+      "question_type": "number",
+      "ground_truth": "86,076",
+      "generated_answer": "The population of the Treviso municipality as of December 2025 was 86,076 inhabitants.",
+      "correct": 1
+    },
+    {
+      "entity": "Treviso",
+      "question": "Is Treviso located in the Veneto region?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Treviso는 이탈리아 북부의 Veneto 지역에 위치해 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Trevor_Senior",
+      "question": "In what year was Trevor Senior born?",
+      "question_type": "number",
+      "ground_truth": "1961",
+      "generated_answer": "Trevor Senior was born in 1961.",
+      "correct": 1
+    },
+    {
+      "entity": "Trevor_Senior",
+      "question": "Was Trevor Senior's primary position a striker?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Trevor Senior의 주요 포지션은 스트라이커였습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Trinity_University_(Texas)",
+      "question": "In what year was Trinity University founded?",
+      "question_type": "number",
+      "ground_truth": "1869",
+      "generated_answer": "Trinity University was founded in 1869.",
+      "correct": 1
+    },
+    {
+      "entity": "Trinity_University_(Texas)",
+      "question": "Is this university located in San Antonio, Texas?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 이 대학은 텍사스주 샌안토니오에 위치해 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "U.S._Pergolettese_1932",
+      "question": "Does U.S. Pergolettese 1932 currently play in Serie C, the third level of Italian football?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, U.S. Pergolettese 1932는 현재 이탈리아 축구의 3부 리그인 Serie C에서 경기를 하고 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "U.S._Pergolettese_1932",
+      "question": "Is one of the main colors of this team yellow?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "UB_Conquense",
+      "question": "In what year was UB Conquense founded?",
+      "question_type": "number",
+      "ground_truth": "1946",
+      "generated_answer": "UB Conquense was founded in 1946.",
+      "correct": 1
+    },
+    {
+      "entity": "UB_Conquense",
+      "question": "Is this club a Spanish football team?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Uganda",
+      "question": "What was the approximate population of Uganda in millions as of 2024?",
+      "question_type": "number",
+      "ground_truth": "45.9",
+      "generated_answer": "Uganda's approximate population as of 2024 was 45.9 million.",
+      "correct": 1
+    },
+    {
+      "entity": "Uganda",
+      "question": "Does the Bank of Uganda handle the printing of the Ugandan shilling?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 우간다 중앙은행인 Bank of Uganda는 우간다 실링의 인쇄를 담당합니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Uganda",
+      "question": "In what year did Uganda gain independence?",
+      "question_type": "number",
+      "ground_truth": "1962",
+      "generated_answer": "Uganda gained independence in 1962.",
+      "correct": 1
+    },
+    {
+      "entity": "University_of_Vienna",
+      "question": "In what year was the University of Vienna founded?",
+      "question_type": "number",
+      "ground_truth": "1365",
+      "generated_answer": "The University of Vienna was founded in 1365.",
+      "correct": 1
+    },
+    {
+      "entity": "University_of_Vienna",
+      "question": "Is this university located in Austria?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 이 대학은 오스트리아에 위치하고 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Visakhapatnam_Airport",
+      "question": "In what year was Visakhapatnam Airport first opened for civil operations?",
+      "question_type": "number",
+      "ground_truth": "1962",
+      "generated_answer": "Visakhapatnam Airport was first opened for civil operations in 1962.",
+      "correct": 1
+    },
+    {
+      "entity": "Visakhapatnam_Airport",
+      "question": "Is this airport located in India?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Vladimir_Fock",
+      "question": "In what year was Vladimir Fock born?",
+      "question_type": "number",
+      "ground_truth": "1898",
+      "generated_answer": "Vladimir Fock was born in the year 1898.",
+      "correct": 1
+    },
+    {
+      "entity": "Vladimir_Fock",
+      "question": "Was he a Soviet physicist?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Warren_Bradley_(footballer)",
+      "question": "In what year was Warren Bradley born?",
+      "question_type": "number",
+      "ground_truth": "1933",
+      "generated_answer": "Warren Bradley was born in 1933.",
+      "correct": 1
+    },
+    {
+      "entity": "Warren_Bradley_(footballer)",
+      "question": "Was he a footballer who played for England and Manchester United?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 그는 잉글랜드와 맨체스터 유나이티드에서 뛰었던 축구 선수입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Wedding_Crashers",
+      "question": "In what year was the film Wedding Crashers released?",
+      "question_type": "number",
+      "ground_truth": "2005",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Wedding_Crashers",
+      "question": "Was the director of this film David Dobkin?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Wedding_Crashers",
+      "question": "How much did the film Wedding Crashers gross worldwide in millions of dollars?",
+      "question_type": "number",
+      "ground_truth": "288.5",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Wigan_Athletic_F.C.",
+      "question": "In what year was Wigan Athletic F.C. founded?",
+      "question_type": "number",
+      "ground_truth": "1932",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Wigan_Athletic_F.C.",
+      "question": "Is Bolton Wanderers considered the primary derby rival of this club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "William_Hopper",
+      "question": "In what year was William Hopper born?",
+      "question_type": "number",
+      "ground_truth": "1915",
+      "generated_answer": "William Hopper was born in the year 1915.",
+      "correct": 1
+    },
+    {
+      "entity": "William_Hopper",
+      "question": "Did he play the role of private detective Paul Drake in the Perry Mason series?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 그는 CBS 텔레비전 시리즈 Perry Mason에서 사설 탐정 Paul Drake 역할로 가장 잘 알려져 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Willie_Sims_(footballer)",
+      "question": "In what year was Willie Sims born?",
+      "question_type": "number",
+      "ground_truth": "1984",
+      "generated_answer": "Willie Sims was born in 1984.",
+      "correct": 1
+    },
+    {
+      "entity": "Willie_Sims_(footballer)",
+      "question": "Did he ever play for the Guatemala national team?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 그는 2007년 11월 17일 온두라스와의 경기에서 과테말라 국가대표팀 데뷔전을 치렀습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Xavier_Hochstrasser",
+      "question": "In what year was Xavier Hochstrasser born?",
+      "question_type": "number",
+      "ground_truth": "1988",
+      "generated_answer": "Xavier Hochstrasser was born in the year 1988.",
+      "correct": 1
+    },
+    {
+      "entity": "Xavier_Hochstrasser",
+      "question": "Is his nationality Swiss?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Yangju_Citizen_FC",
+      "question": "How many times did Yangju Citizen FC win the K3 League in 2008?",
+      "question_type": "number",
+      "ground_truth": "1",
+      "generated_answer": "Yangju Citizen FC won the K3 League once in 2008.",
+      "correct": 1
+    },
+    {
+      "entity": "Yangju_Citizen_FC",
+      "question": "Is this club a South Korean football club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "York_Region_Shooters",
+      "question": "In what year was York Region Shooters formed?",
+      "question_type": "number",
+      "ground_truth": "2003",
+      "generated_answer": "York Region Shooters was formed in 2003.",
+      "correct": 1
+    },
+    {
+      "entity": "York_Region_Shooters",
+      "question": "Did this team compete in the Canadian Soccer League?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 이 팀은 Canadian Soccer League에서 경쟁했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Ángel_Puertas",
+      "question": "In what year was Ángel Puertas born?",
+      "question_type": "number",
+      "ground_truth": "1980",
+      "generated_answer": "Ángel Puertas was born in the year 1980.",
+      "correct": 1
+    },
+    {
+      "entity": "Ángel_Puertas",
+      "question": "Is his nationality Argentine?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "ŁKS_Łódź",
+      "question": "In what year was ŁKS Łódź founded?",
+      "question_type": "number",
+      "ground_truth": "1908",
+      "generated_answer": "ŁKS Łódź was founded in 1908.",
+      "correct": 1
+    },
+    {
+      "entity": "ŁKS_Łódź",
+      "question": "Is football one of the main sports for this club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Łask_County",
+      "question": "In what year did Łask County come into being?",
+      "question_type": "number",
+      "ground_truth": "1999",
+      "generated_answer": "Łask County came into being on January 1, 1999.",
+      "correct": 1
+    },
+    {
+      "entity": "Łask_County",
+      "question": "Is this county located in Poland?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Łask County is located in Poland.",
+      "correct": 1
+    },
+    {
+      "entity": "A.F.C._Bournemouth",
+      "question": "What are the team's colours that have been predominantly used since 1990?",
+      "question_type": "word",
+      "ground_truth": "red-and-black stripes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "A.F.C._Bournemouth",
+      "question": "In what year did Bournemouth achieve their highest ever league finish?",
+      "question_type": "number",
+      "ground_truth": "2026",
+      "generated_answer": "Bournemouth achieved their highest ever league finish in the 2025–26 season.",
+      "correct": 1
+    },
+    {
+      "entity": "Aadhavan",
+      "question": "What is the name of Aadhavan's long-lost father?",
+      "question_type": "word",
+      "ground_truth": "Subramaniam",
+      "generated_answer": "Aadhavan's long-lost father is Subramaniam.",
+      "correct": 1
+    },
+    {
+      "entity": "Aadhavan",
+      "question": "In what year was Aadhavan released?",
+      "question_type": "number",
+      "ground_truth": "2009",
+      "generated_answer": "Aadhavan was released on 17 October 2009.",
+      "correct": 1
+    },
+    {
+      "entity": "Abderraouf_Zarabi",
+      "question": "What position did Abderraouf Zarabi play?",
+      "question_type": "word",
+      "ground_truth": "left-back",
+      "generated_answer": "Abderraouf Zarabi played as a left-back.",
+      "correct": 1
+    },
+    {
+      "entity": "Abderraouf_Zarabi",
+      "question": "How many appearances did Abderraouf Zarabi make for the Algeria national team?",
+      "question_type": "number",
+      "ground_truth": "22",
+      "generated_answer": "Abderraouf Zarabi made 22 appearances for the Algeria national team.",
+      "correct": 1
+    },
+    {
+      "entity": "Aberystwyth_Town_F.C.",
+      "question": "What is the name of the club that was founded in 1884?",
+      "question_type": "word",
+      "ground_truth": "Aberystwyth Town Football Club",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Aberystwyth_Town_F.C.",
+      "question": "How many career goals does Marc Lloyd-Williams have?",
+      "question_type": "number",
+      "ground_truth": "319",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "AD_Ceuta",
+      "question": "What is the name of the club that was founded in 1996?",
+      "question_type": "word",
+      "ground_truth": "Asociación Deportiva Ceuta",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "AD_Ceuta",
+      "question": "How many seasons did Asociación Deportiva Ceuta play in Segunda División B?",
+      "question_type": "number",
+      "ground_truth": "14",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Adam_Haywood",
+      "question": "What position did Adam Haywood play?",
+      "question_type": "word",
+      "ground_truth": "inside-forward",
+      "generated_answer": "Adam Haywood played as an inside-forward.",
+      "correct": 1
+    },
+    {
+      "entity": "Adam_Haywood",
+      "question": "How many goals did Adam Haywood score for Arsenal?",
+      "question_type": "number",
+      "ground_truth": "36",
+      "generated_answer": "Adam Haywood scored 36 goals for Arsenal.",
+      "correct": 1
+    },
+    {
+      "entity": "Ajaccio_Napoleon_Bonaparte_Airport",
+      "question": "What is the former name of Ajaccio Napoleon Bonaparte Airport?",
+      "question_type": "word",
+      "ground_truth": "Campo dell'Oro Airport",
+      "generated_answer": "The former name of Ajaccio Napoleon Bonaparte Airport is \"Campo dell'Oro Airport.\"",
+      "correct": 1
+    },
+    {
+      "entity": "Ajaccio_Napoleon_Bonaparte_Airport",
+      "question": "In what year did Inex-Adria Aviopromet Flight 1308 crash?",
+      "question_type": "number",
+      "ground_truth": "1981",
+      "generated_answer": "Inex-Adria Aviopromet Flight 1308 crashed on 1 December 1981.",
+      "correct": 1
+    },
+    {
+      "entity": "Alan_Ainscow",
+      "question": "What team did Alan Ainscow join as a joint coach in August 2005?",
+      "question_type": "word",
+      "ground_truth": "Burscough",
+      "generated_answer": "Alan Ainscow joined the under-17 team of Burscough as a joint coach in August 2005.",
+      "correct": 1
+    },
+    {
+      "entity": "Alan_Ainscow",
+      "question": "How many league appearances did Alan Ainscow make for Blackpool?",
+      "question_type": "number",
+      "ground_truth": "192",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Alan_Miller_(footballer)",
+      "question": "Which club did Alan Miller join in August 1994?",
+      "question_type": "word",
+      "ground_truth": "Middlesbrough",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Alan_Miller_(footballer)",
+      "question": "How many appearances did Alan Miller make for West Bromwich Albion?",
+      "question_type": "number",
+      "ground_truth": "108",
+      "generated_answer": "Alan Miller made 108 First Division appearances for West Bromwich Albion.",
+      "correct": 1
+    },
+    {
+      "entity": "Albert_Duro",
+      "question": "What position did Albert Duro play?",
+      "question_type": "word",
+      "ground_truth": "Centre back",
+      "generated_answer": "Albert Duro played as a Centre back.",
+      "correct": 1
+    },
+    {
+      "entity": "Albert_Duro",
+      "question": "How many caps did Albert Duro earn for the Albania national team?",
+      "question_type": "number",
+      "ground_truth": "5",
+      "generated_answer": "Albert Duro earned five caps for the Albania national team.",
+      "correct": 1
+    },
+    {
+      "entity": "Albert_Jorquera",
+      "question": "What position did Albert Jorquera play?",
+      "question_type": "word",
+      "ground_truth": "goalkeeper",
+      "generated_answer": "Albert Jorquera played as a goalkeeper.",
+      "correct": 1
+    },
+    {
+      "entity": "Albert_Jorquera",
+      "question": "In what year did Jorquera join Girona FC?",
+      "question_type": "number",
+      "ground_truth": "2009",
+      "generated_answer": "Jorquera joined Girona FC on 25 August 2009.",
+      "correct": 1
+    },
+    {
+      "entity": "Albrecht_Dürer",
+      "question": "What is the name of the German painter and printmaker known for his influence during the Renaissance?",
+      "question_type": "word",
+      "ground_truth": "Albrecht Dürer",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Albrecht_Dürer",
+      "question": "In what year was Albrecht Dürer born?",
+      "question_type": "number",
+      "ground_truth": "1471",
+      "generated_answer": "Albrecht Dürer was born in the year 1471.",
+      "correct": 1
+    },
+    {
+      "entity": "Anderson_Ribeiro_Pereira",
+      "question": "What is the nickname of Anderson Ribeiro Pereira?",
+      "question_type": "word",
+      "ground_truth": "Tegao",
+      "generated_answer": "The nickname of Anderson Ribeiro Pereira is Tegao.",
+      "correct": 1
+    },
+    {
+      "entity": "Anderson_Ribeiro_Pereira",
+      "question": "In what year was Anderson Ribeiro Pereira born?",
+      "question_type": "number",
+      "ground_truth": "1980",
+      "generated_answer": "Anderson Ribeiro Pereira was born in the year 1980.",
+      "correct": 1
+    },
+    {
+      "entity": "Antoine_Bonifaci",
+      "question": "What is the name of the football stadium that bears Antoine Bonifaci's name?",
+      "question_type": "word",
+      "ground_truth": "Villefranche-sur-Mer",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Antoine_Bonifaci",
+      "question": "In what year did Antoine Bonifaci die?",
+      "question_type": "number",
+      "ground_truth": "2021",
+      "generated_answer": "Antoine Bonifaci died on 29 December 2021.",
+      "correct": 1
+    },
+    {
+      "entity": "Argentina_national_football_team",
+      "question": "What is the nickname of the Argentina national football team?",
+      "question_type": "word",
+      "ground_truth": "la Albiceleste",
+      "generated_answer": "The nickname of the Argentina national football team is \"la Albiceleste.\"",
+      "correct": 1
+    },
+    {
+      "entity": "Argentina_national_football_team",
+      "question": "How many FIFA World Cups has Argentina won?",
+      "question_type": "number",
+      "ground_truth": "3",
+      "generated_answer": "Argentina has won three FIFA World Cups.",
+      "correct": 1
+    },
+    {
+      "entity": "Ariel_Garcé",
+      "question": "What is the name of the Argentine football defender?",
+      "question_type": "word",
+      "ground_truth": "Ariel Hernán \"Chino\" Garcé",
+      "generated_answer": "The name of the Argentine football defender is Roberto Ayala.",
+      "correct": 0
+    },
+    {
+      "entity": "Ariel_Garcé",
+      "question": "In what year did Ariel Garcé start his auto racing career?",
+      "question_type": "number",
+      "ground_truth": "2019",
+      "generated_answer": "Ariel Garcé started his auto racing career in 2019.",
+      "correct": 1
+    },
+    {
+      "entity": "Aris_Thessaloniki_F.C.",
+      "question": "What is the name of the stadium where Aris Thessaloniki plays?",
+      "question_type": "word",
+      "ground_truth": "Kleanthis Vikelidis",
+      "generated_answer": "The name of the stadium where Aris Thessaloniki plays is Kleanthis Vikelidis Stadium.",
+      "correct": 1
+    },
+    {
+      "entity": "Aris_Thessaloniki_F.C.",
+      "question": "How many Greek League championships has Aris Thessaloniki won?",
+      "question_type": "number",
+      "ground_truth": "3",
+      "generated_answer": "Aris Thessaloniki has won three Greek League championships.",
+      "correct": 1
+    },
+    {
+      "entity": "Arsenal_F.C.",
+      "question": "What color are Arsenal's home shirts?",
+      "question_type": "word",
+      "ground_truth": "red",
+      "generated_answer": "Arsenal's home shirts are dark red.",
+      "correct": 1
+    },
+    {
+      "entity": "Arsenal_F.C.",
+      "question": "Did Arsenal win their first national senior honour in 1930?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Arsenal은 1930년에 첫 번째 국가 성인 상을 수상했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Arthur_Sorin",
+      "question": "What position did Arthur Sorin normally play?",
+      "question_type": "word",
+      "ground_truth": "right-back",
+      "generated_answer": "Arthur Sorin normally played as a right-back.",
+      "correct": 1
+    },
+    {
+      "entity": "Arthur_Sorin",
+      "question": "Did Arthur Sorin play for AGF Aarhus before his contract with Kalmar expired?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "AS_Cannes",
+      "question": "What is the nickname of Association Sportive de Cannes?",
+      "question_type": "word",
+      "ground_truth": "Les Dragons",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "AS_Cannes",
+      "question": "Did AS Cannes win the Coupe de France in 1932?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Atalanta_B.C.",
+      "question": "What is the name of Atalanta's current manager?",
+      "question_type": "word",
+      "ground_truth": "Maurizio Sarri",
+      "generated_answer": "Atalanta's current manager is Maurizio Sarri.",
+      "correct": 1
+    },
+    {
+      "entity": "Atalanta_B.C.",
+      "question": "Has Atalanta won the UEFA Europa League?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Atalanta won the UEFA Europa League in 2024.",
+      "correct": 0
+    },
+    {
+      "entity": "Athletic_Bilbao",
+      "question": "What are the home colours of Athletic Club?",
+      "question_type": "word",
+      "ground_truth": "red and white stripes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Athletic_Bilbao",
+      "question": "Has Athletic Club ever been relegated from the top division since its inception in 1929?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Bangalore_Urban_district",
+      "question": "Who heads the district administration of Bangalore Urban district?",
+      "question_type": "word",
+      "ground_truth": "Deputy Commissioner",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Bangalore_Urban_district",
+      "question": "Is the population of Bangalore Urban district over 9 million according to the 2011 census?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 2011년 인구 조사에 따르면 Bangalore Urban district의 인구는 9,621,551명으로 9백만을 초과합니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Battle_of_Verneuil",
+      "question": "What was the significant English victory described as a second Agincourt?",
+      "question_type": "word",
+      "ground_truth": "Battle of Verneuil",
+      "generated_answer": "The significant English victory described as a second Agincourt was the Battle of Verneuil, fought on 17 August 1424.",
+      "correct": 1
+    },
+    {
+      "entity": "Battle_of_Verneuil",
+      "question": "Did the English capture all border posts of Lancastrian Normandy after the Battle of Verneuil?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 영어 자료에 따르면, Verneuil 전투 이후 영어는 Lancastrian Normandy의 모든 국경 기지를 포획했습니다. 단, 몽 생 미셸은 수도사들이 저항하여 제외되었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "BC_Kyiv",
+      "question": "What is the name of the club that developed a rivalry with Budivelnyk Kyiv?",
+      "question_type": "word",
+      "ground_truth": "BC Kyiv",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "BC_Kyiv",
+      "question": "Did BC Kyiv win the Ukrainian Cup in 2006?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Benedict_Iroha",
+      "question": "What position did Benedict Iroha play after being converted by national coach Clemens Westerhof?",
+      "question_type": "word",
+      "ground_truth": "left back",
+      "generated_answer": "Benedict Iroha played as a left back after being converted by national coach Clemens Westerhof.",
+      "correct": 1
+    },
+    {
+      "entity": "Benedict_Iroha",
+      "question": "Did Benedict Iroha play in the 1994 FIFA World Cup?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Benedict Iroha는 1994 FIFA 월드컵에 출전했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Bologna_F.C._1909",
+      "question": "What is the name of Bologna's official stadium?",
+      "question_type": "word",
+      "ground_truth": "Stadio Renato Dall'Ara",
+      "generated_answer": "Bologna's official stadium is the Stadio Renato Dall'Ara.",
+      "correct": 1
+    },
+    {
+      "entity": "Bologna_F.C._1909",
+      "question": "Has Bologna won a UEFA Intertoto Cup?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Bologna has won a UEFA Intertoto Cup.",
+      "correct": 1
+    },
+    {
+      "entity": "Boreham_Wood_F.C.",
+      "question": "What is the name of the stadium where Boreham Wood F.C. plays?",
+      "question_type": "word",
+      "ground_truth": "Meadow Park",
+      "generated_answer": "Boreham Wood F.C. plays at Meadow Park.",
+      "correct": 1
+    },
+    {
+      "entity": "Boreham_Wood_F.C.",
+      "question": "Did Boreham Wood F.C. win the Isthmian League Division One championship in 1994-95?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Boston_Bears_(soccer)",
+      "question": "What was the original name of the Boston Bears?",
+      "question_type": "word",
+      "ground_truth": "Boston Soccer Club",
+      "generated_answer": "The original name of the Boston Bears was the Boston Soccer Club.",
+      "correct": 1
+    },
+    {
+      "entity": "Boston_Bears_(soccer)",
+      "question": "Did the Boston Bears compete in the American Soccer League in 1931?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, 보스턴 베어스는 1931년에 미국 축구 리그(American Soccer League)에서 경쟁했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Bradley_Cooper",
+      "question": "What award did Bradley Cooper win for his contributions to the soundtrack of A Star Is Born?",
+      "question_type": "word",
+      "ground_truth": "Grammy Awards",
+      "generated_answer": "Bradley Cooper won two Grammys for his contributions to the soundtrack of A Star Is Born.",
+      "correct": 1
+    },
+    {
+      "entity": "Bradley_Cooper",
+      "question": "Has Bradley Cooper ever been nominated for a Tony Award?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Bradley Cooper는 한 번 Tony Award에 노미네이트된 적이 있습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Bromley_F.C.",
+      "question": "What is the name of the ground where Bromley F.C. currently plays?",
+      "question_type": "word",
+      "ground_truth": "Hayes Lane",
+      "generated_answer": "Bromley F.C. currently plays at Hayes Lane.",
+      "correct": 1
+    },
+    {
+      "entity": "Bromley_F.C.",
+      "question": "Did Bromley F.C. win the FA Trophy in 2021-22?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Bruce_County",
+      "question": "What is the population of Bruce County as of the 2021 Census?",
+      "question_type": "word",
+      "ground_truth": "73,396",
+      "generated_answer": "The population of Bruce County as of the 2021 Census is 73,396.",
+      "correct": 1
+    },
+    {
+      "entity": "Bruce_County",
+      "question": "Does Bruce County have more than eight municipalities?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "C.F._Os_Belenenses",
+      "question": "What is the nickname commonly used for C.F. Os Belenenses?",
+      "question_type": "word",
+      "ground_truth": "O Belém",
+      "generated_answer": "C.F. Os Belenenses is commonly nicknamed O Belém, Os Pastéis, Azuis, Azuis do Restelo, A Cruz de Cristo, and Os Rapazes da Praia.",
+      "correct": 1
+    },
+    {
+      "entity": "C.F._Os_Belenenses",
+      "question": "Has C.F. Os Belenenses won the Primeira Liga?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, C.F. Os Belenenses won the Primeira Liga in the 1945–46 season, making them the first club other than the Big Three to win the league title.",
+      "correct": 1
+    },
+    {
+      "entity": "Calcio_Padova",
+      "question": "Who was the coach of Calcio Padova in the 1940s?",
+      "question_type": "word",
+      "ground_truth": "Béla Guttmann",
+      "generated_answer": "The coach of Calcio Padova in the 1940s was Béla Guttmann.",
+      "correct": 1
+    },
+    {
+      "entity": "Calcio_Padova",
+      "question": "Did Calcio Padova win the Coppa Italia Serie C in 1980?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Calcio Padova는 1980년에 Coppa Italia Serie C에서 우승했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Caught_in_a_Cabaret",
+      "question": "In what year was 'Caught in a Cabaret' released?",
+      "question_type": "number",
+      "ground_truth": "1914",
+      "generated_answer": "'Caught in a Cabaret' was released in 1914.",
+      "correct": 1
+    },
+    {
+      "entity": "Caught_in_a_Cabaret",
+      "question": "Did Mabel Normand write and direct 'Caught in a Cabaret'?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Mabel Normand는 'Caught in a Cabaret'를 쓰고 감독했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Charlie_Chaplin",
+      "question": "How many Academy Awards did Charlie Chaplin receive?",
+      "question_type": "number",
+      "ground_truth": "3",
+      "generated_answer": "Charlie Chaplin received three Academy Awards.",
+      "correct": 1
+    },
+    {
+      "entity": "Charlie_Chaplin",
+      "question": "Was Charlie Chaplin awarded a star on the Hollywood Walk of Fame?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Charlie Chaplin은 1972년에 할리우드 명예의 거리에서 별을 받았습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Chatou",
+      "question": "How many public junior high schools are there in Chatou?",
+      "question_type": "number",
+      "ground_truth": "2",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Chatou",
+      "question": "Is Chatou part of the Pays des Impressionnistes?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Chatou는 Pays des Impressionnistes의 일부입니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Chelsea_F.C.",
+      "question": "In what year did Chelsea win their first FA Women's Cup?",
+      "question_type": "number",
+      "ground_truth": "2015",
+      "generated_answer": "Chelsea won their first FA Women's Cup in 2015.",
+      "correct": 1
+    },
+    {
+      "entity": "Chelsea_F.C.",
+      "question": "Did Chelsea win the UEFA Women's Champions League in the 2020–21 season?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Chic_Charnley",
+      "question": "How many clubs did Chic Charnley play for during his career?",
+      "question_type": "number",
+      "ground_truth": "11",
+      "generated_answer": "Chic Charnley played for a total of 13 clubs during his career.",
+      "correct": 0
+    },
+    {
+      "entity": "Chic_Charnley",
+      "question": "Did Chic Charnley ever play for Celtic?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Clemens_August_Graf_von_Galen",
+      "question": "In what year was Clemens August Graf von Galen appointed as a cardinal?",
+      "question_type": "number",
+      "ground_truth": "1946",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Clemens_August_Graf_von_Galen",
+      "question": "Did Clemens August Graf von Galen openly support the Nazi regime?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Club_de_Gimnasia_y_Esgrima_La_Plata",
+      "question": "In what year was the official anthem of Gimnasia written?",
+      "question_type": "number",
+      "ground_truth": "1915",
+      "generated_answer": "The official anthem of Gimnasia was written in 1915.",
+      "correct": 1
+    },
+    {
+      "entity": "Club_de_Gimnasia_y_Esgrima_La_Plata",
+      "question": "Has Gimnasia y Esgrima La Plata ever won the Copa Libertadores?",
+      "question_type": "yes_no",
+      "ground_truth": "No",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Club_Sportivo_Sergipe",
+      "question": "In what year was Club Sportivo Sergipe founded?",
+      "question_type": "number",
+      "ground_truth": "1909",
+      "generated_answer": "Club Sportivo Sergipe was founded in the year 1909.",
+      "correct": 1
+    },
+    {
+      "entity": "Club_Sportivo_Sergipe",
+      "question": "Did Club Sportivo Sergipe ever compete in the Campeonato Brasileiro Série A?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Club Sportivo Sergipe는 Campeonato Brasileiro Série A에 참가한 적이 있습니다. 1972년에 Sergipe는 Campeonato Brasileiro Série A에 참가하여 26위로 마감했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Cruzeiro_Esporte_Clube",
+      "question": "In what year was Cruzeiro Esporte Clube founded?",
+      "question_type": "number",
+      "ground_truth": "1921",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Cruzeiro_Esporte_Clube",
+      "question": "Did Ronaldo sell his shareholding in Cruzeiro to Pedro Lourenço?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Ronaldo는 Cruzeiro의 지분을 Pedro Lourenço에게 판매했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "CS_Chênois",
+      "question": "In what year was CS_Chênois formed?",
+      "question_type": "number",
+      "ground_truth": "1907",
+      "generated_answer": "CS_Chênois was formed in 1907.",
+      "correct": 1
+    },
+    {
+      "entity": "CS_Chênois",
+      "question": "Did CS_Chênois compete in the Intertoto Cup in 1979?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, CS_Chênois는 1979년에 인터토토 컵에 참가했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "D.C._United",
+      "question": "How many MLS Cups has D.C. United won?",
+      "question_type": "number",
+      "ground_truth": "4",
+      "generated_answer": "D.C. United has won four MLS Cups.",
+      "correct": 1
+    },
+    {
+      "entity": "D.C._United",
+      "question": "Did D.C. United unveil an updated logo in 2015?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, D.C. United는 2015년 12월 10일에 업데이트된 로고를 공개했습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Dave_McEachran",
+      "question": "In what year did Dave McEachran sign with Vale of Leven F.C.?",
+      "question_type": "number",
+      "ground_truth": "1924",
+      "generated_answer": "Dave McEachran signed with Vale of Leven F.C. in January 1924.",
+      "correct": 1
+    },
+    {
+      "entity": "Dave_McEachran",
+      "question": "Did Dave McEachran play for the Boston Bears?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Dave McEachran은 Boston Bears에서 뛰었습니다.",
+      "correct": 1
+    },
+    {
+      "entity": "Dorchester_Town_F.C.",
+      "question": "What year did Dorchester Town F.C. reach the 2nd round of the FA Cup for the first time?",
+      "question_type": "number",
+      "ground_truth": "1954",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Dorchester_Town_F.C.",
+      "question": "Is Dorchester Town F.C. a community-owned club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Dorchester Town F.C. is a community-owned club.",
+      "correct": 1
+    },
+    {
+      "entity": "Dragan_Lukovski",
+      "question": "How many children does Dragan Lukovski have?",
+      "question_type": "number",
+      "ground_truth": "2",
+      "generated_answer": "Dragan Lukovski has two children, Lola and Dimitrije.",
+      "correct": 1
+    },
+    {
+      "entity": "Dragan_Lukovski",
+      "question": "Does Dragan Lukovski own a basketball club?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Dragan Lukovski is one of the owners of the basketball club Sport Key in Novi Sad, Serbia.",
+      "correct": 1
+    },
+    {
+      "entity": "Droylsden_F.C.",
+      "question": "What year did Droylsden AFC win the Ashton & District League?",
+      "question_type": "number",
+      "ground_truth": "1913",
+      "generated_answer": "자료에서 찾을 수 없습니다.",
+      "correct": 0
+    },
+    {
+      "entity": "Droylsden_F.C.",
+      "question": "Did Droylsden FC ever reach the FA Cup second round proper?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "Yes, Droylsden FC reached the FA Cup second round proper in the 2008–09 season after beating Chesterfield 2–1.",
+      "correct": 1
+    },
+    {
+      "entity": "Dylan_Hughes",
+      "question": "How many games did Dylan Hughes play for Makedonikos?",
+      "question_type": "number",
+      "ground_truth": "25",
+      "generated_answer": "Dylan Hughes played 25 games for Makedonikos.",
+      "correct": 1
+    },
+    {
+      "entity": "Dylan_Hughes",
+      "question": "Did Dylan Hughes receive his UEFA B level coaching certificate through the Welsh FA?",
+      "question_type": "yes_no",
+      "ground_truth": "Yes",
+      "generated_answer": "네, Dylan Hughes는 웨일스 축구 협회(Welsh FA)를 통해 UEFA B 레벨 코칭 자격증을 받았습니다.",
+      "correct": 1
+    }
+  ],
+  "overall_accuracy": 0.7825,
+  "accuracy_by_question_type": {
+    "word": 0.7886178861788617,
+    "yes_no": 0.6460176991150443,
+    "number": 0.8719512195121951
+  }
+}

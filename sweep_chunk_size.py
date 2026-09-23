@@ -32,7 +32,7 @@ def main():
         }
 
         for name, retriever in retrievers.items():
-            hit_rate, mrr, ndcg = compute_retrieval_metrics(eval_set, retriever)
+            hit_rate, mrr, ndcg, *_ = compute_retrieval_metrics(eval_set, retriever, chunks)
             print(f"{chunk_size:<12}{len(chunks):<10}{name:<10}{hit_rate:<10.2%}{mrr:<10.4f}{ndcg:<10.4f}")
 
 
